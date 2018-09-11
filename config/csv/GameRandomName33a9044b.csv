@@ -1,0 +1,267 @@
+﻿int	int	string[]	string
+随机名字id	名字类型|n|1剧本|n|2艺人	随机名称序列	策划备注（不读取）
+id	type	zh_cn_names	tips
+1001	1	Ignoble Jerks;Killin Nazis;Payback Time	无耻混蛋
+1002	1	Field Doctor;Saving the Men;Medic	血战钢锯岭
+1003	1	Old Men Fighting;Old Heroes;Retired & Deadly	敢死队
+1004	1	King of Wartime;Dealer of Weapons;Trading Arms	战争之王
+1005	1	The List;Oskar's Factory;A Kind Man	辛德勒名单
+1006	1	Operation Save;Find the Private;Ryan's Journey Home	拯救大兵瑞恩
+1007	1	A Long Battle;The Escape;Get Them Out	敦刻尔克
+1008	1	Me, My Horse and I;Battle Horse;Equestrian War	战马
+1009	1	Waiting for You;The Mountains Freeze;Civil War Romance	冷山
+1010	1	Deadly Shot;Sniper Duel;Sniper of Stalingrad	兵临城下
+1011	1	Lone Walk;A Never-ending Walk;Billy's Stroll	比利林恩的中场战事
+1012	1	A Harbor Attacked;Man the Guns!;Day of Infamy	珍珠港
+1013	1	Ride with Dinosaurs;Dino Park;Jurassic Land	侏罗纪世界
+1014	1	A Train Full of Dead;Train Zombies;Ride With the Dead	釜山行
+1015	1	Call Me By Your Name;The Sinking Ship;Ship of Dreams	泰坦尼克号
+1016	1	Alone in a Cloud;Foggy Days;Unclear	迷雾
+1017	1	Safe Landing;The Pilot;Focused Flying	萨利机长
+1018	1	Totally Maniacal;Out of Order;Bizarre	铁线虫入侵
+1019	1	We Are the Hunters;The Assault;Titan's Fall	进击的巨人
+1020	1	Til Dawn;Virus;Legendary Survivor	我是传奇
+1021	1	Shark;Water Killers;Razor Teeth	大白鲨
+1022	1	Space Beasts;Passenger;Death Trap	异形
+1023	1	Humanity vs Zombnity;The Zee War;Zombie Apocalypse	僵尸世界大战
+1024	1	Snowy Revolution;Snowmobile;Blizzard	雪国列车
+1025	1	House in a Forest;The Cabin;Sacrifice the Youth	林中小屋
+1026	1	Future Days;Going Too Fast;Continual Progress	摩登时代
+1027	1	Tee Goes to Eat;Morning Mealtime;Tiffany's Brunch	蒂凡尼早餐
+1028	1	A Hot, Hot Summer;Take a Break;Scratch It	七年之痒
+1029	1	Pulped Magazine;Fan Fiction;Serial Madness	低俗小说
+1030	1	Price of Love;Dangerous Love;Poulin Rose	红磨坊
+1031	1	Singing City;La La Fever;Dreamers & Fools	爱乐之城
+1032	1	Fake Marriage;Will You Marry Me?;I Do	假结婚
+1033	1	A Boy and A Girl;A Quirky Affair;London Hills	诺丁山
+1034	1	Punk Driver;Cabbie Story;Rebel Driver	出租车司机
+1035	1	Smart but Sexy;Nerdy Roommates;Clever Nerds	生活大爆炸
+1036	1	Meeting at the Top;A Forbidden Romance;Mountain Lovers	断背山
+1037	1	50 Kisses;50 Encounters;Forgetting Love	初恋50次
+1038	1	Canine Story;The Dog Knows;Man's Best Friend	忠犬八公
+1039	1	Price of Sauces;Ask Carol;Complicated Passion	卡罗尔
+1040	1	Just Beautiful;Woman of the Eve;Lovely Woman	风月俏佳人
+1041	1	Just Live;Try it Once;Selfish or Not?	遇见你之前
+1042	1	Rich Quick;The Scheme;The Finance Wolf	华尔街之狼
+1043	1	Broken Mind;Ballerina Tales;Black Dance	黑天鹅
+1044	1	The Tale of Pain;The Breeders;A Brutal Tale	使女的故事
+1045	1	Man of Many Tools;A Swiss Solution;Stranded	瑞士军刀男
+1046	1	A Magic Ring;Lord of the Kings;Journey of the Rings	指环王
+1047	1	The Kid Who Survived;Wizard Boy;Larry Motter	哈利波特
+1048	1	Dominoes;Small Changes;The Wing Effect	蝴蝶效应
+1049	1	Young for You;Return to Youth;Back to 17	重返17岁
+1050	1	A Magic Sword;Lifting the Sword;King of the Sword	亚瑟王：斗兽争霸
+1051	1	Dangerous Hands;Scissorman;The Weird Kid	剪刀手爱德华
+1052	1	Live Backwards;Reversed Aging;Curious Case of Age	本杰明巴顿奇事
+1053	1	Sharp Edges;Vampire Hunter;Blood Blade	刀锋战士
+1054	1	Timeless Love;Flourishing Love;Signed by You	你的名字
+1055	1	Blood in the Sun;Rise;Blood Shortage	嗜血破晓
+1056	1	Goat Maze;The Labyrinth;Pan's Maze	潘神的迷宫
+1057	1	Witch Month;The Witches Time;Season of Magic	女巫季节
+1058	1	Kingdoms vs Clans;Game of Power;War for the Throne	权力的游戏
+1059	1	Dragonpet;Raising the Dragon;How to Train a Beast	驯龙高手
+1060	1	Fairytale Toys;Toys Tale;Plastic Story	玩具总动员
+1061	1	A Lost Fish;Swim to Safety;Where is My Son?	海底总动员
+1062	1	Story of Speed;Car Wheels;Car Story	赛车总动员
+1063	1	Starving Game;Battleground Unknown;Hunger Battles	饥饿游戏
+1064	1	Flying a Home;Balloon House;Up & Away	飞屋环游记
+1065	1	Sparrow Bay;Pirates & Ships;Ahoy Pirate!	加勒比海盗
+1066	1	Discovery of a Movie;A Real Reality Show;Truman's Life	楚门的世界
+1067	1	Umbrella-Tech;Resident Zombies;Zombie Evil	生化危机
+1068	1	Villainous Hero;Naughty Hero;Bloodpool	死侍
+1069	1	Cursed Pharaoh;Egypt's Nightmare;Mummy's Curse	木乃伊
+1070	1	I for Ideology;Anonymous Rebel;V - A Revenge Story	V字仇杀队
+1071	1	Faith of Assassin;A Killer of Bad Guys;Murder Creed	刺客信条
+1072	1	Ghost Woodstock;Music in Mexico;Coco & the Guitar	寻梦环游记
+1073	1	Rabbit Cop;Animal City;Zoo Society	疯狂动物城
+1074	1	Falling for Her;Hopelessly Devoted;Marlena	西西里的美丽传说
+1075	1	A Stylish Devil;The Devil in Style;Evil in Gukki	穿Prada的恶魔
+1076	1	A Blackboard Problem;A Smart Janitor;Good Hunting	心灵捕手
+1077	1	Escaping a Prison;Longing for Freedom;Dindrunger Escape	肖申克的救赎
+1078	1	Hurt and Searching;Finding a Bad Man;Belle, The Finder	她
+1079	1	O'Captain;Inspired Students;Dead Poets Unite	死亡诗社
+1080	1	3 Fools;Triple Dumb;Idiots Three	三傻大闹宝莱坞
+1081	1	Valar Moghulise;Beat this Disease;Dallas Med Society	达拉斯买家俱乐部
+1082	1	Fists and More Fists;Fight Your Way;Million Dollar Boxer	百万美元宝贝
+1083	1	The Man Who Ran;Gump;Forrest Runs	阿甘正传
+1084	1	A Sad Man;Finding Happiness;Pursue Your Dreams	当幸福来敲门
+1085	1	The Royal Speech;Helping the King;Speech Impediment	国王的演讲
+1086	1	Call Me No.1;Do What it Takes;Smart Student	叫我第一名
+1087	1	Smart in the Slums;Million-Dollar Q&A;Slumdog Story	贫民窟的百万富翁
+1088	1	Becoming Human;Clone Escape;Island Prison	逃出克隆岛
+1089	1	A Team of Badguys;Heroic Villains;Suicide Monsters	自杀小队
+1090	1	Dr. Giant;The Green Beast;Bulk	绿巨人
+1091	1	Young, Old Soldier;A Hero from America;Captain Hero	美国队长
+1092	1	IQ Tech Hero;Metal Man;Iron Soldier	钢铁侠
+1093	1	Iron Blood;Robot Assassin;Terminate the Threat	终结者
+1094	1	Being Blue;Defend our Planet;Pandora's Struggle	阿凡达
+1095	1	Galaxy Far Away;Space Battles;Wars of the Stars	星球大战
+1096	1	Star Explorers;Galactic Trek;Traversing Stars	星际迷航
+1097	1	New Genetics;Inferior;Connected World	千钧一发
+1098	1	Galactic Wild West;Western Space;Cowboys vs ET's	牛仔和外星人
+1099	1	Player of the Oasis;Virtual Players;Ready to Play	头号玩家
+1100	1	Recurring Kiss;Crack the Code;Sourcing the Code	源代码
+1101	1	Hacked vs Hacker;Enter Reality;Swallow the Pill	黑客帝国
+1102	1	Mars' Farmer;Stranded On Mars;Martian Survival	火星救援
+1103	1	Carcrafts;Robot Cars;Transforming Droids	变形金刚
+1104	1	Alien War Machines;Mecha Anime;Genetic Neon Battles	EVA
+1105	1	Meeting Mom;Return in Time;Fix the Past	回到未来
+1106	1	Cyber Rebels;Robot Rebellion;Deadly AI	我，机器人
+1107	1	Future Drama;Android Fever;Blade Droids	银翼杀手
+1108	1	Alone in Space;Space Travel Guide;A Guide to Galaxy	银河系漫游指南
+1109	1	Real of Fake?;Trained to Fight;Ender's Battle	安德的游戏
+1110	1	For Freedom;Scottish Warriors;Brave Men	勇敢的心
+1111	1	Jane's Diary;Becoming a Lady;Jane Knows	成为简·奥斯汀
+1112	1	Caesar's Downfall;The Nile Queen;The Seducing Queen	埃及艳后
+1113	1	Henry's Reign;Rulers;The Crown's Burden	都铎王朝
+1114	1	Time Regained;A Courtesan's Memory;The Geisha's Tale	艺伎回忆录
+1115	1	Empressive;China's Empress;Ruling China	武则天
+1116	1	A Kind Hearted Man;The Hunchback;Notre Dame Stories	巴黎圣母院
+1117	1	Created Drama;Vanity & Bias;Prejudiced Choices	傲慢与偏见
+1118	1	Important Jewelry;The Girl's Earring;Pearls for All	戴珍珠耳环的少女
+1119	1	Love in Italy;Seducer;Flirtation	卡萨诺瓦
+1120	1	Ann and Mary;Another Girl;A Bowling Girl	另一个波琳家的女孩
+1121	1	Desert Roads;Desert Madness;Bad Max	疯狂的麦克斯
+1122	1	Gentle Killer;The Killer;Leonardo	这个杀手不太冷
+1123	1	The Hero You Need;The Dark Bat;Night Knight	蝙蝠侠：黑暗骑士
+1124	1	Killing King;Survive;100 Deaths	大逃杀
+1125	1	Dream Loops;Slumber Dreams;Altering Dreams	盗梦空间
+1126	1	The Sicily Man;Mafia Family;The Don	教父
+1127	1	My and Your Sins;Murder Spree;Sins	七宗罪
+1128	1	The Woman's Scent;The Smell;The Perfect Perfume	香水
+1129	1	Almost Late;Punctual;Just Arrived	时间规划局
+1130	1	Two Sides of Me;Fight Me;Punching Society	搏击俱乐部
+1131	1	Death: Your Choice;Trapped;Puzzles of Death	电锯惊魂
+1132	1	Killer IQ;Silence of Animals;The Lambs of Silence	沉默的羔羊
+1133	1	A Life of Lust;The Return;Terrible Postman	邮差总按两次铃
+1134	1	Breaking Bars;Jailbreak Life;Stuck in Jail	越狱
+1135	1	Love Rekindled;Missing Girl;Not to Be Seen	消失的爱人
+1136	1	Catching Game;You Won't Catch Me;Con Man On the Run	猫鼠游戏
+1137	1	Hunter's Night;Not a Good Place;No Country for Elder	老无所依
+1138	1	Girl in Black&Green;The Mysterious Girl;The Tattooed Girl	龙纹身的女孩
+1139	1	A Secret in L.A.;Confidentiality Town;Los Angeles Secrets	洛城机密
+1140	1	Good with Tools;Silent and Deadly;Hitmen	机械师
+1141	1	An Unsolved Case;The Star Murders;Hunting the Killer	十二宫杀手
+1142	1	Phone Hostage;Answered Call;Ring Ring	狙击电话亭
+1143	1	Legal Slaughter;The Cleansing;Survive the Night	人类清除计划
+1144	1	Fraud Stories;Hustlers of the City;American Con Artists	美国骗局
+1145	1	The Theft Job;The Gig;A Theft in Italy	偷天换日
+1146	1	Family over Cars;Fast Drivers;Driving Like Maniacs	速度与激情
+1147	1	Driver Man;The Carrier;Delivery Man	玩命快递
+1148	1	A Place in Morocco;Love in Royalty;Play It Again	卡萨布兰卡
+1149	1	Kill Your Partner;Loving Killers;Deadly Couple	史密斯夫妇
+1150	1	Where's My Umbrella?;Sharp;Spies of Consequence	王牌特工
+1151	1	Bleed Together;War Shadows;The Plan	间谍同盟
+1152	1	Night Duties;Flashlights and Dark;The Round	夜班经理
+1153	1	Agent Unknown;Agent Mission;Impossible Odds	碟中谍
+1154	1	Aliens and Men;Men in Suits;Alien Guards	黑衣人
+1155	1	Deadly Stakes;Kingly Casino;Bond's Casino	007皇家赌场
+1156	1	Code: Mona;An Ancient Code;Historical Secrets	达芬奇密码
+1157	1	Who's in the Mirror;Forgotten Identity;Agent Bornio	谍影重重
+1158	1	Running and Hiding;An Assassination;Enemy of the CIA	国家公敌
+1159	1	Snake Tongues;No Truths;Hiding Your Job	真实的谎言
+1160	1	Ruthless Spies;Traveling North;East by West	西北偏北
+1161	1	Visiting a Friend;Unassuming Man;Chasing the Money	游客
+1162	1	You'll Regret It;Trained & Dangerous;Pepper Revenge	特工绍特
+2001	2	Stephen Zach;Quentin Zane;Skylar Sprock	Zachary Quinto
+2002	2	Hunter Charles;Charlie Humps;Jacks Moto	Charlie Hunnam
+2003	2	Patrick Jims;Jimmie Park;Shelly Boomer	Jim Parsons
+2004	2	Remy Jeans;Francois Renoir;Leon Hitmanne	Jean Reno
+2005	2	Yi Zhang;Zoe Li;Yochi Motosaka	Zhang Ziyi
+2006	2	Arissa Hadwell;Hayley Alter;Margaret Carter	Hayley Atwell
+2007	2	Hank Thompson;Tommy Hicks;Chuck Gump	Tom Hanks
+2008	2	Ford Harris;Atticus Pond;James Solo	Harrison Ford
+2009	2	Tim Justinlake;Joe Timberland;Justin Curlfro	Justin Timberlake
+2010	2	Mikky Madson;Mikkel Moose;Hans Levture	Mads Mikkelsen
+2011	2	Larry Jude;George Law;David Heiworth	Jude Law
+2012	2	Chelsea Maggs;Maggie Chin;Mandy Chan	Maggie Cheung
+2013	2	Violet Gong;Li Grand;Iza Bella	Gong Li
+2014	2	Stan Jams;Jason States;Brad Muscles	Jason Statham
+2015	2	Sammy Adams;Adam Sands;Sonny Gilmore	Adam Sandler
+2016	2	Carlos Nicks;Nic Trap;Kim Supactor	Nicolas Cage
+2017	2	Marlene Rooney;Rhonda Mars;Liz Tatooim	Rooney Mara
+2018	2	Tao Oaks;Okie Tamoto;Mari Yadisha	Tao Okamoto
+2019	2	Dave Boyd;Perry Dang;Davy Darkside	Darth Vader
+2020	2	Sherry Tale;Tye Cobbson;Percival Cyclo	Tye Sheridan
+2021	2	Greta Eves;Eva Blue;Ann Temesia	Eva Green
+2022	2	Wolfgang Wiedermayer;Arnie Buffhead;Guy Venour	Arnold Schwarzenegger
+2023	2	Charles Chipotle;Charlie Moustache;Chuck Silencio	Charlie Chaplin
+2024	2	Brandon Marlin;Martin Brond;Mark Bond	Marlon Brando
+2025	2	Fred Morgan;Morty Freedom;Morrie Grey	Morgan Freeman
+2026	2	Mac Joy;Jimmy Avoy;Kevin Xavier	James McAvoy
+2027	2	Marcela Sophiam;Sophia Marcota;Electura Queen	Sophie Marceau
+2028	2	William Robins;Robbie Willis;Alvin Paddish	Robin Williams
+2029	2	Gary Hughes;Howard Gross;Daniel McPrettiface	Hugh Grant
+2030	2	Dora Tales;Natalie Dorms;Mary Tyreal	Natalie Dormer
+2031	2	Garrett Jake;Jacob Gills;Don Dartikus	Jake Gyllenhaal
+2032	2	Will Robbins;Robin Wrong;Clara Overtree	Robin Wright
+2033	2	Gene Richards;Richie Gear;Rick Sappyton	Richard  Gere
+2034	2	Swati Hills;Hillary Sweeney;Maggie Fitzfists	Hilary Swank
+2035	2	Tak Kitano;Kit Takong;Beat Takisho	Kitano Takeshi
+2036	2	Danny Kale;Caleb Dansig;Kim Dale	Daniel Kaluuya
+2037	2	Pauline Sars;Sarah Pile;Lana Snows	Sarah Paulson
+2038	2	Bernardo Javier;Javier Barron;Xavier Darkeyes	Javier Bardem
+2039	2	Gordon Young;Yale Grondo;Seok Kim	Gong Yoo
+2040	2	Hedna Ardy;Audrey Hellburn;Holly Tiffany	Audrey Hepburn
+2041	2	Marissa Colt;Caroline Marillot;Billie Joan	Marion Cotillard
+2042	2	Josephina Angel;Angela Belle;Angel Bigeyes	Angelina Jolie
+2043	2	Orlando Bloom;Orlando Bloom;Orlando Bloom	Orlando Bloom
+2044	2	Evan Chris;Christopher Eves;Steve Shield	Chris Evans
+2045	2	Rick Alan;Alonzo Mick;Al O'Baddie	Alan Rickman
+2046	2	Lenny Jarvis;Jimmy Lento;Jay Soserius	Jared Leto
+2047	2	Conny Fifth;Francis Kale;Cole Galahado	Colin Firth
+2048	2	Hiram Timbletoon;Tommy Hillings;Tom Trickster	Tom Hiddleston
+2049	2	Tina Uman;Mona Thurs;Ivy Fiction	Uma Thurman
+2050	2	Kaylie Nidman;Nicole Kingsley;Nicki Redlocks	Nicole Kidman
+2051	2	Ed Null;Norman Edwards;Eddie Twoface	Edward Norton
+2052	2	Benjamin Alters;Alfred Benz;Ban Laflack	Ben Affleck
+2053	2	Timothy Robbs;Rob Timmins;Andrew Dutrain	Tim Robbins
+2054	2	Anna Jenston;Jen Cranston;Rachel Friendus	Jennifer Aniston
+2055	2	Belinda Sands;Sandra Bock;Grace Congenial	Sandra Bullock
+2056	2	Khan Maari;Aamir Jones;Samir Doom	Aamir Khan
+2057	2	Ryan Pool;Ryerye Reyrey;Van Rayholds	Ryan Reynolds
+2058	2	Ludmila Kuns;Mila Swan;Karen Mills	Mila Kunis
+2059	2	Vincent De Robo;Robert Nerenzia;Jim Comday	Robert De Niro
+2060	2	Cooper Brad;Bradford Colt;Rocky Rabbite	Bradley Cooper
+2061	2	Carl Jarvey;Jim Crazy;King Ventura	Jim Carrey
+2062	2	Svetlana Milovich;Cecilia Jolwich;Millie McGunn	Milla Jovovich
+2063	2	Kevin Ash;Sasha Kushner;Mikey DeCelso	Ashton Kutcher
+2064	2	Lisa Miss;Mona Lisbeth;Peggy Bartlet	Elisabeth Moss
+2065	2	Harry Neil Fitzpatrick;Neil Rogers;Barni Tintsern	Neil Patrick Harris
+2066	2	Betty Hale;Halle Merry;Heather Jinx	Halle Berry
+2067	2	Yoki Mitchells;Michelle Young;Shu Kickmaster	Michelle Yeoh
+2068	2	Elton Zachs;Zach Erfen;Zacariah Boyface	Zac Efron
+2069	2	Bella Mons;Monica Belle;Malina Scadoria	Monica Bellucci
+2070	2	Leo DiCarp;Francesco DiNapoli;Jack Cobb	Leonardo DiCaprio
+2071	2	Rodney Dans;Harry Pronter;Danny Deadman	Daniel Radcliffe
+2072	2	John Dip;Jack Deep;Jack Grindle	Johnny Depp
+2073	2	Danny Roberts Jr;Rober Frown Sr;Stony Tark Jr	Robert Downey Jr
+2074	2	Peter Bradley;Bradford Penn;Pit Ruffryder	Brad Pitt
+2075	2	Marla Mongrel;Monica Marlo;Blondie Bombshell	Marilyn Monroe
+2076	2	Jen Law;Laura Jennifer;Jaylee Hungrybird	Jennifer Lawrence
+2077	2	Paul Cratt;Chris Matt;Chris Realman	Chris Pratt
+2078	2	Roberta Jules;Juliette Robs;Jules Pretty	Julia Roberts
+2079	2	Javi Hems;Harry Charge;Thor Chrisworth	Chris Hemsworth
+2080	2	Hugh Jacked;Jack Bonedaggers;Wolf Blade	Hugh Jackman
+2081	2	Chris Bunt;Christian Brolin;Dep Darkman	Christian Bale
+2082	2	Ryan Blonde;George Rile;Gos Rylings	Ryan Gosling
+2083	2	Tom Truth;Craig Toose;Thomas Ship	Tom Cruise
+2084	2	Stella Mone;Emma Rock;Emily Redrock	Emma Stone
+2085	2	Wilma Eason;Hermione Watts;Emma Curls	Emma Watson
+2086	2	William Smithers;Fresh Prince;Jay Agentia	Will Smith
+2087	2	Ben Flounderhatch;Theodore Bimbobatch;Steven Holmes	Benedict Cumberbatch
+2088	2	Annie Hat;Hattie Away;Ann Brownies	Anne Hathaway
+2089	2	Joan Scarson;Scarlett Andersson;Nat Darksuit	Scarlett Johansson
+2090	2	Dave Matton;Matthew Dames;Jay Bornio	Matt Damon
+2091	2	Greg McEwan;Evan Gregs;Abiwan Kanoti	Ewan McGregor
+2092	2	Liz Tays;Taylor Lizzie;Cleo Tapata	Elizabeth Taylor
+2093	2	Kylie Knight;Keira Sparrow;Liz Swaine	Keira Knightley
+2094	2	Clarisse Ems;Emily Clams;Callie Leesi	Emilia Clarke
+2095	2	Connor Matthews;Matthew Cohoney;Matt Lockdicus	Matthew McConaughey
+2096	2	Natie Port;Patricia Nailman;Ama Queen	Natalie Portman
+2097	2	Bing Fan;Fang Binbin;Fay Empress	Fan Bingbing
+2098	2	Jack Ho;Bruce Chan;Chan Kickem	Jackie Chan
+2099	2	Craig Daniels;Douglas Cringe;Jim Bomb	Daniel Craig
+2100	2	Harry Toms;Tom Bard;Alfie Kray	Tom Hardy
+2101	2	泰勒斯威夫特1;泰勒斯威夫特2;泰勒斯威夫特3	泰勒斯威夫特
+2102	2	巨石强森1;巨石强森2;巨石强森3	巨石强森

@@ -1,0 +1,485 @@
+[
+  {
+    "path": "/fgui/Activity@atlas0.png",
+    "size": 865030,
+    "width": 1024,
+    "height": 1024,
+    "memory": 4194304
+  },
+  {
+    "path": "/fgui/ArtistDic@atlas0.png",
+    "size": 40400,
+    "width": 512,
+    "height": 256,
+    "memory": 524288
+  },
+  {
+    "path": "/fgui/Building@atlas0.png",
+    "size": 662543,
+    "width": 1024,
+    "height": 1024,
+    "memory": 4194304
+  },
+  {
+    "path": "/fgui/Building@atlas_cpc911l.png",
+    "size": 363696,
+    "width": 360,
+    "height": 640,
+    "memory": 921600
+  },
+  {
+    "path": "/fgui/Building@atlas_dyfe120.png",
+    "size": 399666,
+    "width": 360,
+    "height": 640,
+    "memory": 921600
+  },
+  {
+    "path": "/fgui/Building@atlas_iacm12l.png",
+    "size": 238825,
+    "width": 360,
+    "height": 360,
+    "memory": 518400
+  },
+  {
+    "path": "/fgui/Common@atlas0.png",
+    "size": 752027,
+    "width": 1024,
+    "height": 1024,
+    "memory": 4194304
+  },
+  {
+    "path": "/fgui/Common@atlas0_1.png",
+    "size": 151283,
+    "width": 512,
+    "height": 512,
+    "memory": 1048576
+  },
+  {
+    "path": "/fgui/Common@atlas0_2.png",
+    "size": 803736,
+    "width": 1024,
+    "height": 1024,
+    "memory": 4194304
+  },
+  {
+    "path": "/fgui/Common@atlas0_3.png",
+    "size": 795190,
+    "width": 1024,
+    "height": 1024,
+    "memory": 4194304
+  },
+  {
+    "path": "/fgui/Common@atlas0_4.png",
+    "size": 559088,
+    "width": 1024,
+    "height": 1024,
+    "memory": 4194304
+  },
+  {
+    "path": "/fgui/Common@atlas0_5.png",
+    "size": 246658,
+    "width": 1024,
+    "height": 1024,
+    "memory": 4194304
+  },
+  {
+    "path": "/fgui/Common@atlas2.png",
+    "size": 251,
+    "width": 62,
+    "height": 30,
+    "memory": 7440
+  },
+  {
+    "path": "/fgui/Common@atlas_dm31t22d.png",
+    "size": 61070,
+    "width": 300,
+    "height": 310,
+    "memory": 372000
+  },
+  {
+    "path": "/fgui/Common@atlas_hh765m.png",
+    "size": 169312,
+    "width": 480,
+    "height": 853,
+    "memory": 1637760
+  },
+  {
+    "path": "/fgui/Common@atlas_hh765n.png",
+    "size": 171578,
+    "width": 460,
+    "height": 300,
+    "memory": 552000
+  },
+  {
+    "path": "/fgui/Common@atlas_hh7681.png",
+    "size": 87639,
+    "width": 240,
+    "height": 427,
+    "memory": 409920
+  },
+  {
+    "path": "/fgui/Common@atlas_hh7688.png",
+    "size": 321880,
+    "width": 630,
+    "height": 820,
+    "memory": 2066400
+  },
+  {
+    "path": "/fgui/Common@atlas_i4hgt240.png",
+    "size": 115942,
+    "width": 350,
+    "height": 454,
+    "memory": 635600
+  },
+  {
+    "path": "/fgui/Common@atlas_jmopn4.png",
+    "size": 93211,
+    "width": 333,
+    "height": 498,
+    "memory": 663336
+  },
+  {
+    "path": "/fgui/Common@atlas_l7rut207.png",
+    "size": 97525,
+    "width": 240,
+    "height": 427,
+    "memory": 409920
+  },
+  {
+    "path": "/fgui/Common@atlas_m9lgt21y.png",
+    "size": 144130,
+    "width": 313,
+    "height": 263,
+    "memory": 329276
+  },
+  {
+    "path": "/fgui/Common@atlas_m9lgt21z.png",
+    "size": 227141,
+    "width": 313,
+    "height": 319,
+    "memory": 399388
+  },
+  {
+    "path": "/fgui/Common@atlas_m9lgt220.png",
+    "size": 106570,
+    "width": 316,
+    "height": 203,
+    "memory": 256592
+  },
+  {
+    "path": "/fgui/Common@atlas_m9lgt221.png",
+    "size": 24481,
+    "width": 180,
+    "height": 47,
+    "memory": 33840
+  },
+  {
+    "path": "/fgui/Common@atlas_mu1z2k.png",
+    "size": 196955,
+    "width": 506,
+    "height": 900,
+    "memory": 1821600
+  },
+  {
+    "path": "/fgui/Common@atlas_s9dx1g.png",
+    "size": 38887,
+    "width": 655,
+    "height": 288,
+    "memory": 754560
+  },
+  {
+    "path": "/fgui/Common@atlas_s9dx1h.png",
+    "size": 67459,
+    "width": 312,
+    "height": 389,
+    "memory": 485472
+  },
+  {
+    "path": "/fgui/Common@atlas_s9dx1i.png",
+    "size": 42313,
+    "width": 167,
+    "height": 299,
+    "memory": 199732
+  },
+  {
+    "path": "/fgui/Cooperation@atlas0.png",
+    "size": 127765,
+    "width": 512,
+    "height": 512,
+    "memory": 1048576
+  },
+  {
+    "path": "/fgui/Fx@atlas0.png",
+    "size": 811956,
+    "width": 1024,
+    "height": 1024,
+    "memory": 4194304
+  },
+  {
+    "path": "/fgui/Guide@atlas0.png",
+    "size": 179417,
+    "width": 512,
+    "height": 1024,
+    "memory": 2097152
+  },
+  {
+    "path": "/fgui/Login@atlas0.png",
+    "size": 852202,
+    "width": 1024,
+    "height": 1024,
+    "memory": 4194304
+  },
+  {
+    "path": "/fgui/Login@atlas_8zgr15.png",
+    "size": 222973,
+    "width": 360,
+    "height": 594,
+    "memory": 855360
+  },
+  {
+    "path": "/fgui/Login@atlas_dk944n.png",
+    "size": 123130,
+    "width": 280,
+    "height": 434,
+    "memory": 486080
+  },
+  {
+    "path": "/fgui/Login@atlas_dk944o.png",
+    "size": 119673,
+    "width": 280,
+    "height": 434,
+    "memory": 486080
+  },
+  {
+    "path": "/fgui/Login@atlas_dk944t.png",
+    "size": 75437,
+    "width": 216,
+    "height": 384,
+    "memory": 331776
+  },
+  {
+    "path": "/fgui/Login@atlas_l1hm4w.png",
+    "size": 103581,
+    "width": 163,
+    "height": 1050,
+    "memory": 684600
+  },
+  {
+    "path": "/fgui/Login@atlas_l1hm4x.png",
+    "size": 99314,
+    "width": 280,
+    "height": 434,
+    "memory": 486080
+  },
+  {
+    "path": "/fgui/Login@atlas_l1hm4y.png",
+    "size": 94437,
+    "width": 280,
+    "height": 434,
+    "memory": 486080
+  },
+  {
+    "path": "/fgui/Main@atlas0.png",
+    "size": 242172,
+    "width": 1024,
+    "height": 256,
+    "memory": 1048576
+  },
+  {
+    "path": "/fgui/MainUI@atlas0.png",
+    "size": 222576,
+    "width": 1024,
+    "height": 256,
+    "memory": 1048576
+  },
+  {
+    "path": "/fgui/Market@atlas0.png",
+    "size": 113891,
+    "width": 1024,
+    "height": 1024,
+    "memory": 4194304
+  },
+  {
+    "path": "/fgui/Mission@atlas0.png",
+    "size": 32277,
+    "width": 512,
+    "height": 128,
+    "memory": 262144
+  },
+  {
+    "path": "/fgui/PfSkin@atlas0.png",
+    "size": 572314,
+    "width": 1024,
+    "height": 1024,
+    "memory": 4194304
+  },
+  {
+    "path": "/fgui/PfSkin@atlas0_1.png",
+    "size": 744200,
+    "width": 1024,
+    "height": 1024,
+    "memory": 4194304
+  },
+  {
+    "path": "/fgui/PfSkin@atlas0_2.png",
+    "size": 706148,
+    "width": 1024,
+    "height": 1024,
+    "memory": 4194304
+  },
+  {
+    "path": "/fgui/PfSkin@atlas_iacmt1w7.png",
+    "size": 564548,
+    "width": 540,
+    "height": 960,
+    "memory": 2073600
+  },
+  {
+    "path": "/fgui/PfSkin@atlas_sm6tt1ve.png",
+    "size": 544849,
+    "width": 540,
+    "height": 960,
+    "memory": 2073600
+  },
+  {
+    "path": "/fgui/PlayerInfo@atlas0.png",
+    "size": 230002,
+    "width": 1024,
+    "height": 512,
+    "memory": 2097152
+  },
+  {
+    "path": "/fgui/Produce@atlas0.png",
+    "size": 297171,
+    "width": 1024,
+    "height": 512,
+    "memory": 2097152
+  },
+  {
+    "path": "/fgui/Street@atlas0.png",
+    "size": 42536,
+    "width": 256,
+    "height": 256,
+    "memory": 262144
+  },
+  {
+    "path": "/fgui/System@atlas0.png",
+    "size": 50534,
+    "width": 512,
+    "height": 256,
+    "memory": 524288
+  },
+  {
+    "path": "/fgui/System@atlas_5sasa.png",
+    "size": 895539,
+    "width": 642,
+    "height": 960,
+    "memory": 2465280
+  },
+  {
+    "path": "/fgui/SystemSettings@atlas0.png",
+    "size": 40437,
+    "width": 512,
+    "height": 512,
+    "memory": 1048576
+  },
+  {
+    "path": "/fgui/WarMovie@atlas0.png",
+    "size": 244623,
+    "width": 512,
+    "height": 1024,
+    "memory": 2097152
+  },
+  {
+    "path": "/fgui/WarMovie@atlas0_1.png",
+    "size": 466779,
+    "width": 1024,
+    "height": 1024,
+    "memory": 4194304
+  },
+  {
+    "path": "/fgui/WarMovie@atlas_qbxl8s.png",
+    "size": 163320,
+    "width": 350,
+    "height": 454,
+    "memory": 635600
+  },
+  {
+    "path": "/fgui/WarMovie@atlas_qbxl8t.png",
+    "size": 147058,
+    "width": 350,
+    "height": 454,
+    "memory": 635600
+  },
+  {
+    "path": "/fgui/WarMovie@atlas_qbxl8u.png",
+    "size": 91823,
+    "width": 350,
+    "height": 454,
+    "memory": 635600
+  },
+  {
+    "path": "/fgui/WarMovie@atlas_qbxl8v.png",
+    "size": 115942,
+    "width": 350,
+    "height": 454,
+    "memory": 635600
+  },
+  {
+    "path": "/fgui/WarMovie@atlas_qbxl8w.png",
+    "size": 146968,
+    "width": 350,
+    "height": 454,
+    "memory": 635600
+  },
+  {
+    "path": "/fgui/WarMovie@atlas_qbxl93.png",
+    "size": 155817,
+    "width": 350,
+    "height": 454,
+    "memory": 635600
+  },
+  {
+    "path": "/fgui/WarMovie@atlas_r0zd1e.png",
+    "size": 94816,
+    "width": 350,
+    "height": 296,
+    "memory": 414400
+  },
+  {
+    "path": "/fgui/WarMovie@atlas_r0zd1f.png",
+    "size": 288254,
+    "width": 687,
+    "height": 504,
+    "memory": 1384992
+  },
+  {
+    "path": "/fgui/WarMovie@atlas_r0zd1g.png",
+    "size": 368320,
+    "width": 522,
+    "height": 882,
+    "memory": 1841616
+  },
+  {
+    "path": "/fgui/WarMovie@atlas_r0zd1x.png",
+    "size": 198589,
+    "width": 293,
+    "height": 387,
+    "memory": 453564
+  },
+  {
+    "path": "/fgui/WarMovie@atlas_r0zd3c.png",
+    "size": 106514,
+    "width": 171,
+    "height": 424,
+    "memory": 290016
+  },
+  {
+    "path": "/fgui/WarMovie@atlas_r0zd3p.png",
+    "size": 84647,
+    "width": 230,
+    "height": 410,
+    "memory": 377200
+  }
+]

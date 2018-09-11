@@ -1,0 +1,490 @@
+[
+  {
+    "path": "/spine/Bones/Audience01.sk",
+    "size": 11042
+  },
+  {
+    "path": "/spine/Bones/Female_01.sk",
+    "size": 294040
+  },
+  {
+    "path": "/spine/Bones/Man_01.sk",
+    "size": 297552
+  },
+  {
+    "path": "/spine/Bones/Man_02.sk",
+    "size": 183773
+  },
+  {
+    "path": "/spine/Female01/1002_Zoe/1002_Zoe.sk",
+    "size": 376800
+  },
+  {
+    "path": "/spine/Female01/1021_Bird/1021_Bird.sk",
+    "size": 376836
+  },
+  {
+    "path": "/spine/Female01/1025_Lia/1025_Lia.sk",
+    "size": 376800
+  },
+  {
+    "path": "/spine/Female01/1034_Nana/1034_Nana.sk",
+    "size": 376836
+  },
+  {
+    "path": "/spine/Female01/1040_Hailey/1040_Hailey.sk",
+    "size": 376908
+  },
+  {
+    "path": "/spine/Female01/1041_Jane/1041_Jane.sk",
+    "size": 376836
+  },
+  {
+    "path": "/spine/Female01/1053_Annie/1053_Annie.sk",
+    "size": 376872
+  },
+  {
+    "path": "/spine/Female01/1056_Fanie/1056_Fanie.sk",
+    "size": 376872
+  },
+  {
+    "path": "/spine/Female01/1087_Fisty/1087_Fisty.sk",
+    "size": 376872
+  },
+  {
+    "path": "/spine/Female01/1096_June/1096_June.sk",
+    "size": 376836
+  },
+  {
+    "path": "/spine/Female01/2004_Famle/2004_Famle.sk",
+    "size": 376872
+  },
+  {
+    "path": "/spine/Female01/9987_Npc4/9987_Npc4.sk",
+    "size": 376836
+  },
+  {
+    "path": "/spine/Female02/1018_Lana/1018_Lana.sk",
+    "size": 421366
+  },
+  {
+    "path": "/spine/Female02/1039_Renie/1039_Renie.sk",
+    "size": 421399
+  },
+  {
+    "path": "/spine/Female03/1017_Mari/1017_Mari.sk",
+    "size": 548346
+  },
+  {
+    "path": "/spine/Female03/1022_Sophie/1022_Sophie.sk",
+    "size": 548420
+  },
+  {
+    "path": "/spine/Female03/1028_Victoria/1028_Victoria.sk",
+    "size": 548494
+  },
+  {
+    "path": "/spine/Female03/1029_Joan/1029_Joan.sk",
+    "size": 548346
+  },
+  {
+    "path": "/spine/Female03/1035_Empress/1035_Empress.sk",
+    "size": 548457
+  },
+  {
+    "path": "/spine/Female03/1037_Teresa/1037_Teresa.sk",
+    "size": 548420
+  },
+  {
+    "path": "/spine/Female03/1038_Britney/1038_Britney.sk",
+    "size": 548457
+  },
+  {
+    "path": "/spine/Female03/1049_Cleo/1049_Cleo.sk",
+    "size": 548346
+  },
+  {
+    "path": "/spine/Female03/1051_Rainborn/1051_Rainborn.sk",
+    "size": 548494
+  },
+  {
+    "path": "/spine/Female03/1052_Janny/1052_Janny.sk",
+    "size": 548383
+  },
+  {
+    "path": "/spine/Female03/1055_Lily/1055_Lily.sk",
+    "size": 548346
+  },
+  {
+    "path": "/spine/Female03/1058_Margot/1058_Margot.sk",
+    "size": 548420
+  },
+  {
+    "path": "/spine/Female03/1059_Cecilia/1059_Cecilia.sk",
+    "size": 548457
+  },
+  {
+    "path": "/spine/Female03/1060_Annabelle/1060_Annabelle.sk",
+    "size": 548531
+  },
+  {
+    "path": "/spine/Female03/1062_Malena/1062_Malena.sk",
+    "size": 548420
+  },
+  {
+    "path": "/spine/Female03/1067_Mandy/1067_Mandy.sk",
+    "size": 548383
+  },
+  {
+    "path": "/spine/Female03/1068_Purple/1068_Purple.sk",
+    "size": 548420
+  },
+  {
+    "path": "/spine/Female03/1071_Ann/1071_Ann.sk",
+    "size": 548309
+  },
+  {
+    "path": "/spine/Female03/1080_Cara/1080_Cara.sk",
+    "size": 548346
+  },
+  {
+    "path": "/spine/Female03/1081_Swan/1081_Swan.sk",
+    "size": 548346
+  },
+  {
+    "path": "/spine/Female03/1086_Tanya/1086_Tanya.sk",
+    "size": 548383
+  },
+  {
+    "path": "/spine/Female03/1089_Chiyo/1089_Chiyo.sk",
+    "size": 548383
+  },
+  {
+    "path": "/spine/Female03/1093_Winter/1093_Winter.sk",
+    "size": 548420
+  },
+  {
+    "path": "/spine/Female03/1095_Catie/1095_Catie.sk",
+    "size": 548383
+  },
+  {
+    "path": "/spine/Female03/1097_Kris/1097_Kris.sk",
+    "size": 548346
+  },
+  {
+    "path": "/spine/Female03/1101_Layla/1101_Layla.sk",
+    "size": 548383
+  },
+  {
+    "path": "/spine/Female03/2002_Fehost/2002_Fehost.sk",
+    "size": 548420
+  },
+  {
+    "path": "/spine/Female03/2008_Bonita/2008_Bonita.sk",
+    "size": 548420
+  },
+  {
+    "path": "/spine/Female03/9997_Scarlett/9997_Scarlett.sk",
+    "size": 548494
+  },
+  {
+    "path": "/spine/Male01/1001_Sven/1001_Sven.sk",
+    "size": 305061
+  },
+  {
+    "path": "/spine/Male01/1003_Hayden/1003_Hayden.sk",
+    "size": 305141
+  },
+  {
+    "path": "/spine/Male01/1004_Jay/1004_Jay.sk",
+    "size": 305021
+  },
+  {
+    "path": "/spine/Male01/1005_Larry/1005_Larry.sk",
+    "size": 305101
+  },
+  {
+    "path": "/spine/Male01/1006_Singo/1006_Singo.sk",
+    "size": 305101
+  },
+  {
+    "path": "/spine/Male01/1007_Farth/1007_Farth.sk",
+    "size": 305101
+  },
+  {
+    "path": "/spine/Male01/1008_K800/1008_K800.sk",
+    "size": 305061
+  },
+  {
+    "path": "/spine/Male01/1010_Charlie/1010_Charlie.sk",
+    "size": 305181
+  },
+  {
+    "path": "/spine/Male01/1011_Gorden/1011_Gorden.sk",
+    "size": 305141
+  },
+  {
+    "path": "/spine/Male01/1013_Bart/1013_Bart.sk",
+    "size": 305061
+  },
+  {
+    "path": "/spine/Male01/1014_Spark/1014_Spark.sk",
+    "size": 305101
+  },
+  {
+    "path": "/spine/Male01/1016_Hack/1016_Hack.sk",
+    "size": 305061
+  },
+  {
+    "path": "/spine/Male01/1019_Tom/1019_Tom.sk",
+    "size": 305021
+  },
+  {
+    "path": "/spine/Male01/1020_Galahad/1020_Galahad.sk",
+    "size": 305181
+  },
+  {
+    "path": "/spine/Male01/1023_William/1023_William.sk",
+    "size": 305181
+  },
+  {
+    "path": "/spine/Male01/1024_Taylor/1024_Taylor.sk",
+    "size": 305141
+  },
+  {
+    "path": "/spine/Male01/1026_Alpha/1026_Alpha.sk",
+    "size": 305101
+  },
+  {
+    "path": "/spine/Male01/1027_Drago/1027_Drago.sk",
+    "size": 305101
+  },
+  {
+    "path": "/spine/Male01/1030_Steel/1030_Steel.sk",
+    "size": 305101
+  },
+  {
+    "path": "/spine/Male01/1033_Bill/1033_Bill.sk",
+    "size": 305061
+  },
+  {
+    "path": "/spine/Male01/1036_Nathan/1036_Nathan.sk",
+    "size": 305141
+  },
+  {
+    "path": "/spine/Male01/1042_Elton/1042_Elton.sk",
+    "size": 305101
+  },
+  {
+    "path": "/spine/Male01/1043_Amstrong/1043_Amstrong.sk",
+    "size": 305221
+  },
+  {
+    "path": "/spine/Male01/1044_Alfred/1044_Alfred.sk",
+    "size": 305141
+  },
+  {
+    "path": "/spine/Male01/1045_Reyrey/1045_Reyrey.sk",
+    "size": 305141
+  },
+  {
+    "path": "/spine/Male01/1046_Dan/1046_Dan.sk",
+    "size": 305021
+  },
+  {
+    "path": "/spine/Male01/1047_Machel/1047_Machel.sk",
+    "size": 305141
+  },
+  {
+    "path": "/spine/Male01/1048_Guy/1048_Guy.sk",
+    "size": 305021
+  },
+  {
+    "path": "/spine/Male01/1054_Spike/1054_Spike.sk",
+    "size": 305101
+  },
+  {
+    "path": "/spine/Male01/1061_Wolf/1061_Wolf.sk",
+    "size": 305061
+  },
+  {
+    "path": "/spine/Male01/1063_Jerome/1063_Jerome.sk",
+    "size": 305141
+  },
+  {
+    "path": "/spine/Male01/1064_Keith/1064_Keith.sk",
+    "size": 305101
+  },
+  {
+    "path": "/spine/Male01/1065_Alex/1065_Alex.sk",
+    "size": 305061
+  },
+  {
+    "path": "/spine/Male01/1066_Sanjay/1066_Sanjay.sk",
+    "size": 305141
+  },
+  {
+    "path": "/spine/Male01/1069_Ronnie/1069_Ronnie.sk",
+    "size": 305141
+  },
+  {
+    "path": "/spine/Male01/1070_Travis/1070_Travis.sk",
+    "size": 305141
+  },
+  {
+    "path": "/spine/Male01/1072_Shelly/1072_Shelly.sk",
+    "size": 305141
+  },
+  {
+    "path": "/spine/Male01/1073_Jake/1073_Jake.sk",
+    "size": 305061
+  },
+  {
+    "path": "/spine/Male01/1074_Ben/1074_Ben.sk",
+    "size": 305021
+  },
+  {
+    "path": "/spine/Male01/1075_Kim/1075_Kim.sk",
+    "size": 305021
+  },
+  {
+    "path": "/spine/Male01/1076_Darkman/1076_Darkman.sk",
+    "size": 305181
+  },
+  {
+    "path": "/spine/Male01/1077_Gos/1077_Gos.sk",
+    "size": 305021
+  },
+  {
+    "path": "/spine/Male01/1078_Bolyd/1078_Bolyd.sk",
+    "size": 305101
+  },
+  {
+    "path": "/spine/Male01/1083_Harry/1083_Harry.sk",
+    "size": 305101
+  },
+  {
+    "path": "/spine/Male01/1084_Lock/1084_Lock.sk",
+    "size": 305061
+  },
+  {
+    "path": "/spine/Male01/1090_Unknown/1090_Unknown.sk",
+    "size": 305181
+  },
+  {
+    "path": "/spine/Male01/1091_Parsifal/1091_Parsifal.sk",
+    "size": 305221
+  },
+  {
+    "path": "/spine/Male01/1094_Stan/1094_Stan.sk",
+    "size": 305061
+  },
+  {
+    "path": "/spine/Male01/1098_Juan/1098_Juan.sk",
+    "size": 305061
+  },
+  {
+    "path": "/spine/Male01/1099_Ellen/1099_Ellen.sk",
+    "size": 305101
+  },
+  {
+    "path": "/spine/Male01/1100_Glenn/1100_Glenn.sk",
+    "size": 305101
+  },
+  {
+    "path": "/spine/Male01/1102_Stone/1102_Stone.sk",
+    "size": 305101
+  },
+  {
+    "path": "/spine/Male01/2001_Mhost/2001_Mhost.sk",
+    "size": 305101
+  },
+  {
+    "path": "/spine/Male01/2003_Male/2003_Male.sk",
+    "size": 305061
+  },
+  {
+    "path": "/spine/Male01/9986_Npc3/9986_Npc3.sk",
+    "size": 305061
+  },
+  {
+    "path": "/spine/Male01/9996_Rocky/9996_Rocky.sk",
+    "size": 305101
+  },
+  {
+    "path": "/spine/Male02/1009_Dick/1009_Dick.sk",
+    "size": 492628
+  },
+  {
+    "path": "/spine/Male02/1012_Norman/1012_Norman.sk",
+    "size": 492714
+  },
+  {
+    "path": "/spine/Male02/1031_Blossom/1031_Blossom.sk",
+    "size": 492757
+  },
+  {
+    "path": "/spine/Male02/1032_Holms/1032_Holms.sk",
+    "size": 492671
+  },
+  {
+    "path": "/spine/Male02/1050_Arthur/1050_Arthur.sk",
+    "size": 492714
+  },
+  {
+    "path": "/spine/Male02/1085_Parker/1085_Parker.sk",
+    "size": 492714
+  },
+  {
+    "path": "/spine/Male02/1092_Barton/1092_Barton.sk",
+    "size": 492714
+  },
+  {
+    "path": "/spine/Male03/1015_Snake/1015_Snake.sk",
+    "size": 414925
+  },
+  {
+    "path": "/spine/Male03/1057_Hammer/1057_Hammer.sk",
+    "size": 414962
+  },
+  {
+    "path": "/spine/Male03/1079_Lax/1079_Lax.sk",
+    "size": 414851
+  },
+  {
+    "path": "/spine/Male03/1082_Noah/1082_Noah.sk",
+    "size": 414888
+  },
+  {
+    "path": "/spine/Male03/1088_Caleb/1088_Caleb.sk",
+    "size": 414925
+  },
+  {
+    "path": "/spine/Scene/Audience01/Audience01.sk",
+    "size": 11042
+  },
+  {
+    "path": "/spine/Scene/Cinema Hall/Cinema Hall1.sk",
+    "size": 6524
+  },
+  {
+    "path": "/spine/Scene/Cinema Hall/Cinema Hall2.sk",
+    "size": 1515
+  },
+  {
+    "path": "/spine/Scene/CinemaHall/CinemaHall1.sk",
+    "size": 6524
+  },
+  {
+    "path": "/spine/Scene/CinemaHall/CinemaHall2.sk",
+    "size": 1515
+  },
+  {
+    "path": "/spine/Scene/Door/Door.sk",
+    "size": 3990
+  },
+  {
+    "path": "/spine/Scene/Scene_SheYingpeng/Scene_SheYingpeng.sk",
+    "size": 66653
+  }
+]
