@@ -61,6 +61,11 @@
   },
   {
     "cnname": "",
+    "name": "FinishGuide",
+    "data": {}
+  },
+  {
+    "cnname": "",
     "name": "debug",
     "data": {
       "num": 1
