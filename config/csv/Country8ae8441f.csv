@@ -1,7 +1,0 @@
-﻿int	int	string	string	int	int	int	DTItemNum[]	int	int
-国家ID	国家编号	国家名称	国家名称-英文	城市数量	图标	国旗	通关国家奖励	前置国家0表示没有前置国家	下一个国家
-id	number	zh_cn_name	en_name	city_num	icon	flag	reward	pre_id	next_country
-101	1	美国	USA	40	6101	6101	1:1000;2:10000	0	102
-102	2	加拿大	Canada	40	6102	6102	1:2000;2:50000	101	103
-103	3	澳大利亚	Australia	40	6103	6103	1:3000;2:100000	102	104
-104	4	英国	England	40	6104	6104	1:4000;2:150000	103	0

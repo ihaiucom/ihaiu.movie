@@ -1,7 +1,0 @@
-{
-	"list":
-	[
-		{ "name": "QA", "ip": "172.81.240.224", "port": 80, "state": 1, "https": false, "test": true }
-	],
-	"default":"QA"
-}

@@ -1,9 +1,0 @@
-﻿int	string	int	int	int	int	int	int	int	int	int	int	int	int
-id	说明	奖励道具1	道具1数量	奖励道具2	道具2数量	奖励道具3	道具3数量	奖励道具4	道具4数量	奖励道具5	道具5数量	奖励道具6	道具6数量
-id	tips	first_id	first_num	second_id	second_num	third_id	third_num	fourth_id	fourth_num	fifth_id	fifth_num	sixth_id	six_num
-1	1星奖励	1	10	0	0	0	0	0	0	0	0	0	0
-2	2星奖励	1	10	2	10	0	0	0	0	0	0	0	0
-3	3星奖励	1	10	2	10	3	10	0	0	0	0	0	0
-4	4星奖励	1	10	2	10	3	10	4	10	0	0	0	0
-5	5星奖励	1	10	2	10	3	10	4	10	5	10	0	0
-6	6星奖励	1	10	2	10	3	10	4	10	5	10	6	10

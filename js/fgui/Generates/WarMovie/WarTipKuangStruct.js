@@ -1,0 +1,38 @@
+/////////////////////////////////////
+// ihaiu.ExportFairyGUICode生成
+// http://blog.ihaiu.com
+/////////////////////////////////////
+var __extends = (this && this.__extends) || (function () {
+    var extendStatics = Object.setPrototypeOf ||
+        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+    return function (d, b) {
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+var fgui;
+(function (fgui) {
+    var WarMovie;
+    (function (WarMovie) {
+        var WarTipKuangStruct = /** @class */ (function (_super) {
+            __extends(WarTipKuangStruct, _super);
+            function WarTipKuangStruct() {
+                return _super.call(this) || this;
+            }
+            WarTipKuangStruct.createInstance = function () {
+                return (fairygui.UIPackage.createObject("WarMovie", "WarTipKuang"));
+            };
+            WarTipKuangStruct.prototype.constructFromXML = function (xml) {
+                _super.prototype.constructFromXML.call(this, xml);
+                this.m_title = (this.getChild("title"));
+            };
+            WarTipKuangStruct.URL = "ui://y6ozucp1qbxl9f";
+            WarTipKuangStruct.DependPackages = ["WarMovie", "Common"];
+            return WarTipKuangStruct;
+        }(fairygui.GLabel));
+        WarMovie.WarTipKuangStruct = WarTipKuangStruct;
+    })(WarMovie = fgui.WarMovie || (fgui.WarMovie = {}));
+})(fgui || (fgui = {}));
+//# sourceMappingURL=WarTipKuangStruct.js.map
