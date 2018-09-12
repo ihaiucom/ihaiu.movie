@@ -11,7 +11,7 @@
 		{ "name": "测试--项目组86", "ip": "172.16.51.19", "port": 8360, "state": 1, "https": false, "test": true },
 		{ "name": "测试--项目组87", "ip": "172.16.51.19", "port": 8460, "state": 1, "https": false, "test": true },
 		{ "name": "Official", "ip": "172.16.0.187", "port": 80, "state": 1, "https": false, "test": true },
-		{ "name": "QA", "ip": "172.81.240.224", "port": 80, "state": 1, "https": false, "test": true }
+		{ "name": "QA", "ip": "172.81.240.224", "port": 80, "state": 1, "https": true, "test": true }
 	],
 	"default":"测试--项目组80",
 	"defaultServer":"测试--项目组80"
