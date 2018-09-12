@@ -1,0 +1,4 @@
+﻿int	int	int	int	int	int	string	string	string
+id	起始类型（0：随开服时间；1：随配置时间；2：随玩家注册时间）	开始时间（起始类型为1时读取）	活动时长（天）	默认图标	图标选中状态	活动名称	活动说明	备注说明
+id	start_type	start	duration	icon	icon_chosen	zh_cn_activities_name	zh_cn_activities_info	info
+1	2	0	10	5121	5125	首周登陆	活动期间每日登录均可领取相应奖励	首周登陆活动

@@ -1,0 +1,60 @@
+﻿int	string
+id	功能名称
+id	name
+1	Main
+3	Film
+4	Actor
+5	Market
+6	Depot
+21	Shop
+22	Top-up
+23	Task
+24	Welfare
+25	Activities
+26	Super Idol
+31	Settings
+32	Mail
+33	Chat
+41	Oskar
+42	Box Target
+51	Produce
+52	Order
+53	Business
+54	Fans
+55	Conference
+61	Scripts
+62	Cinemas
+63	Scriptwriter
+64	Actor List
+65	Treasure
+71	Group
+72	Leader
+73	Cooperate
+81	Tasks
+82	Orders
+83	Dollars
+84	Coins
+101	Login
+102	Create Character
+103	Character Info
+104	Leaderboard
+105	Main Task
+106	Block
+107	Notice
+201	Upgrade Building
+202	Building List
+401	Info
+402	Introduction
+403	Hide
+404	Recruit
+405	Succeed
+406	Train
+407	Result
+408	New Actor
+409	Share
+410	Practice
+6101	Info
+10001	Operate
+10002	Manage
+10003	Social
+10004	Cooperate

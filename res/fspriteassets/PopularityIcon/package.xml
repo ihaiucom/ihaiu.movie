@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ba2tvm32" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="qup60" name="qiaoshouyipan.png" path="/" exported="true"/>
+    <image id="qup62" name="yipiaonanqiu.png" path="/" exported="true"/>
+    <image id="qup63" name="yousuoerwen.png" path="/" exported="true"/>
+    <image id="fk8i4" name="wanzhongzhumu.png" path="/" exported="true"/>
+  </resources>
+  <publish name="PopularityIcon"/>
+</packageDescription>

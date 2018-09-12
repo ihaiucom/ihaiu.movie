@@ -1,0 +1,1302 @@
+﻿int	string
+街道ID	街道名称
+id	name
+11001	Walk of Fame
+11002	Universal Studios HW
+11003	The Getty Center
+11004	Times Square
+11005	Statue of Liberty
+11006	Central Park
+11007	Metropolitan Museum
+11008	Capitol Hill
+11009	National Mall
+11010	Lincoln Memorial
+11011	Space Museum
+11012	Art Institute
+11013	Millennium Park
+11014	Willis Tower
+11015	Navy Pier Park
+11016	Space Center Houston
+11017	Rice University
+11018	Hermann Park
+11019	Art Museum Houston
+11020	Independence Hall
+11021	Upenn
+11022	The Liberty Bell
+11023	City Hall
+11024	Museum of Art
+11025	GM Center
+11026	Detroit Downtown
+11027	Detroit Art College
+11028	Heidelberg Project
+11029	Greektown
+11030	Quincy Market
+11031	Freedom Trail
+11032	Charles River
+11033	Boston Common
+11034	Public Library
+11035	Fishermans Wharf
+11036	Golden Gate Bridge
+11037	Lombard Street
+11038	Palace of Fine Arts
+11039	Alcatraz Island
+11040	PITT
+11041	Mount Washington
+11042	CMU
+11043	Point State Park
+11044	Phipps Conservatory
+11045	Georgia Aquarium
+11046	CNN Center
+11047	Olympic Park
+11048	Margaret Museum
+11049	Stone Mountain Park
+11050	Swan House
+11051	Hanauma Bay
+11052	Diamond Head
+11053	Waikiki Beach
+11054	Kalakaua Ave
+11055	Halona Blow Hole
+11056	Iolani Palace
+11057	Denali National Park
+11058	Chena Hot Springs
+11059	Glacier Bay Park
+11060	National Park
+11061	Museum of the North
+11062	Mount McKinley
+11063	Pike Market Place
+11064	UW
+11065	Seattle Space Needle
+11066	Garden and Glass
+11067	Kerry Park
+11068	The Gum Wall
+11069	Roebling Bridge
+11070	Fountain Square
+11071	Over the Rhine
+11072	Bellevue Hill Park
+11073	Findlay Market
+11074	Ault Park
+11075	RnR Hall of Fame
+11076	Museum of Art
+11077	West Side Market
+11078	Cleveland Orchestra
+11079	Edgewater Park
+11080	Lake View Cemetery
+11081	Auto-Aviation Museum
+11082	The Gateway Arch
+11083	City Museum
+11084	UW
+11085	SAaint Louis Zoo
+11086	Expansion Memorial
+11087	Memorial Park
+11088	Missouri Garden
+11089	Wisconsin University
+11090	Madison City Council
+11091	Lake Mendota
+11092	Allen Gardens
+11093	State Street
+11094	Henry Vilas Zoo
+11095	Wisconsin Capitol
+11096	Ibirapuera Park
+11097	St Paul Cathedral
+11098	Independence Park
+11099	St Paul Art Museum
+11100	Liberdade
+11101	Avenida Paulista
+11102	Catholic Cathedral
+11103	Desert Garden
+11104	ASU
+11105	Papago Park
+11106	Instrument Museum
+11107	Phoenix Zoo
+11108	Chinese Center
+11109	Nanshan Park
+11110	Tropical Zoo
+11111	Salem Wax Museum
+11112	Salem Cemetery
+11113	The Salem Museum
+11114	Pirate Museum
+11115	Nightmare Gallery
+11116	Seven Gables House
+11117	Martime History Site
+11118	OSU
+11119	Museum of Art
+11120	Arena District
+11121	Antrim Park
+11122	Downtown Columbus
+11123	Statehouse
+11124	Historical Center
+11125	World Largest Gavel
+11126	Memorial Plaza
+11127	SMU
+11128	World Aquarium
+11129	Dallas Arboretum
+11130	Dallas Museum of Art
+11131	Old Red Museum
+11132	Reunion Tower
+11133	Fossil Rim Center
+11134	Roman Forum
+11135	Cathedral Historica
+11136	Main River
+11137	Town Hall
+11138	Eiserner Steg
+11139	Goethe House
+11140	Old Nicholas Church
+11141	Historical Museum
+11142	Volcanoes Park
+11143	Hanauma Bay
+11144	Pearl Harbor
+11145	Diamond Head
+11146	National Park
+11147	Waikiki Beach
+11148	Maui
+11149	Kualoa Ranch
+11150	Catedral de Sal
+11151	Museo de Oro
+11152	Cerro de Monserrate
+11153	Parque de la 93
+11154	Shannon Falls
+11155	Explora Park
+11156	Johnny cay
+11157	Valley Church
+11158	State Capitol
+11159	Fire Museum
+11160	Life Building
+11161	Lamar Life Building
+11162	State Capitol
+11163	Ayer Hall
+11164	Old Capitol Museum
+11165	Alamo Theater
+11166	Salt Lake Temple
+11167	Utah State Capitol
+11168	Temple Square
+11169	LDS Meeting Center
+11170	Bingham Copper Mine
+11171	Seagull Monument
+11172	Eagle Gate
+11173	Liberty Park
+11174	South Beach
+11175	Museum & Gardens
+11176	Miami Beach
+11177	Little Havana
+11178	Airline Arena
+11179	Bayfront Park
+11180	Freedom Tower
+11181	Wynwood Walls
+11182	Civil Right Memorial
+11183	State Capitol
+11184	White House
+11185	Civil Rights Center
+11186	Governor's Mansion
+11187	Riverfront Park
+11188	Museum
+11189	Planetarium
+11190	Capital Building
+11191	Mount Bonnell
+11192	Metropolitan Park
+11193	Austin Meeting Hall
+11194	Falls State Park
+11195	Barton Springs Pool
+11196	Texas College Tower
+11197	Congress Avenue
+11198	University at Austin
+11199	Union Station
+11200	Museum of Art
+11201	Loose Park
+11202	WWI Liberty Memorial
+11203	Miniature Museum
+11204	Worlds Of Fun
+11205	Kansas City Zoo
+11206	Brookside
+11207	Visitors Center
+11208	French Quarter
+11209	Bourbon Street
+11210	Jackson Square
+11211	Garden District
+11212	Royal Street
+11213	Audubon Park
+11214	Canal Street
+11215	Tulane University
+11216	City Park
+11217	Missouri River
+11218	State Capitol
+11219	Holter Museum of Art
+11220	Governor's Mansion
+11221	Northern Carousel
+11222	St. Helena Cathedral
+11223	Mount Helena
+11224	Last Chance Gulch
+11225	Blue Jewel Mine
+11226	Chocolate Factory
+11227	Chinatown
+11228	The Mob Museum
+11229	Chapel of Flowers
+11230	Caesar Palace Church
+11231	Stratosphere Tower
+11232	Fremont Street
+11233	Red Rock Canyon
+11234	The Strip
+11235	Inner Harbor
+11236	National Aquarium
+11237	JHU
+11238	Washington Monument
+11239	Fort McHenry
+11240	Art Museum
+11241	Art Museum
+11242	Visionary Art Museum
+11243	Railroad Museum
+11244	Art Museum
+11245	State Capitol
+11246	Convention Center
+11247	Civic Center Park
+11248	Museum of Nature
+11249	City Park
+11250	Botanic Gardens
+11251	University of Denver
+11252	Mount Evans
+11253	Universal Studios FL
+11254	Adventure Islands
+11255	Kennedy Space Center
+11256	SeaWorld Orlando
+11257	Lake Eola Park
+11258	Museum of Art
+11259	Orange History Hall
+11260	The Orlando Gun Club
+11261	E.T. Adventure
+11262	Managaha Island
+11263	The Grotto
+11264	Bird Island
+11265	Mount Tapochau
+11266	San Juan Beach
+11267	Memorial Park
+11268	Banzai Cliff
+11269	Micro Beach
+11270	Ladder Beach
+11271	Metropolitan Museum
+11272	Central Park
+11273	Empire Building
+11274	Broadway
+11275	Fifth Avenue
+11276	Rockefeller Center
+11277	Brooklyn Bridge
+11278	Wall Street
+11279	Times Square
+11280	Stanley Park
+11281	Canada Place
+11282	Gastown
+11283	White Rock
+11284	Lions Gate Bridge
+11285	Lynn Canyon Park
+11286	Anthropology Museum
+11287	Wreck Beach
+11288	UT
+11289	Casa Loma
+11290	CN Tower
+11291	Toronto Islands
+11292	High Park
+11293	Art Gallery
+11294	The New City Hall
+11295	Yonge Street
+11296	Mount Royal Park
+11297	Old Port
+11298	Mont-Royal
+11299	McGill University
+11300	Habitat 67
+11301	Botanical Garden
+11302	Olympic Park
+11303	Montreal City Hall
+11304	Old Quebec
+11305	Fort de Quebec
+11306	Citadelle
+11307	Falls Park
+11308	Basse-Ville
+11309	Sainte Anne Basilica
+11310	Vieux-Port
+11311	Hotel du Parlement
+11312	Fisherman's Wharf
+11313	Parliament Buildings
+11314	Craigdarroch Castle
+11315	Inner Harbour
+11316	Empress Hotel
+11317	Royal BC Museum
+11318	Miniature World
+11319	Thunderbird Park
+11320	Parliament Building
+11321	Parliament Hill
+11322	Rideau Canal
+11323	National Gallery
+11324	Rideau Hall
+11325	Peace Tower
+11326	Confederation Square
+11327	Centenial Flame
+11328	Calgary Tower
+11329	Prince's Island Park
+11330	Calgary History Park
+11331	The Calgary Zoo
+11332	Peace Bridge
+11333	Mount Royal
+11334	Wonderland Sculpture
+11335	Ucalgary
+11336	Rainbow Bridge
+11337	Skylon Tower
+11338	Niagara SkyWheel
+11339	Upside Down House
+11340	Butterfly Museum
+11341	Fallsview Waterpark
+11342	Clifton Hills
+11343	Floral Clock
+11344	Aurora Village
+11345	Bush Pilots Monument
+11346	City of Yellowknife
+11347	Old Town
+11348	Old city Ruins
+11349	Down Earth Gallery
+11350	Yellowknife City Hal
+11351	Legislative Court
+11352	Whistler Blackcomb
+11353	Whistler Mountain
+11354	Blackcomb Mountain
+11355	Peak 2 Peak Gondola
+11356	Lost Lake
+11357	Green lake
+11358	Visitor Centre
+11359	Whistler Museum
+11360	UA
+11361	Legislature Building
+11362	Galaxyland
+11363	Royal Alberta Museum
+11364	ROSS SHEPPARD
+11365	Will Hawrelak Park
+11366	Art Gallery
+11367	Edmonton City Hall
+11368	Kingston City Hall
+11369	Queen's University
+11370	Fort Henry
+11371	City Park
+11372	Lake Ontario Park
+11373	Historic Site
+11374	Kingston Waterfront
+11375	Wolfe Island
+11376	Peggy's Cove
+11377	Shubie Park
+11378	Maritime Museum
+11379	Pier 21
+11380	Happy Point Park
+11381	Dalhousie University
+11382	Historic Site
+11383	Discovery Centre
+11384	Waterfront Park
+11385	Japanese Garden
+11386	Pandosy Mission
+11387	Heritage Museum
+11388	Knox Mountain Park
+11389	City Park
+11390	Waterfront Park
+11391	Rose Valley Park
+11392	McMaster University
+11393	Bayfront Park
+11394	Conservation Area
+11395	Theatre Aquarius
+11396	Webster Falls
+11397	Hamilton Waterfalls
+11398	Convention Centre
+11399	Marine Centre
+11400	Assiniboine Park
+11401	Legislative Building
+11402	Assiniboine Park
+11403	Royal Canadian Mint
+11404	Forks Historic Site
+11405	Winnipeg Art Gallery
+11406	Railway Museum
+11407	Children's Museum
+11408	Riverside Park
+11409	Waterloo Park
+11410	Waterloo Museum
+11411	Vistor Center
+11412	Central Railway
+11413	Lyndon Open Fishing
+11414	Country Golf Club
+11415	Chicopee Tube Park
+11416	Yellow Knife Town
+11417	Aurora Village
+11418	Heritage Centre
+11419	Great Slave Lake
+11420	Old city Ruins
+11421	Bush Pilot Monument
+11422	Down Earth Gallery
+11423	Yellowknife
+11424	Transport Museum
+11425	Visitor Info Centre
+11426	Whitehorse Fishway
+11427	Mining Museum
+11428	MacBride Museum
+11429	McIntyre Creek
+11430	North End Gallery
+11431	Golf Club
+11432	District Park
+11433	Legoland Centre
+11434	Performing Theatre
+11435	Reptilia Zoo
+11436	Boyd Conserve Area
+11437	Golf Club
+11438	Stellar Lanes
+11439	Observatory
+11440	Algonquin Park
+11441	Cache Bay
+11442	Knife Lake
+11443	Man Chain of Lakes
+11444	Boundary Point
+11445	Falls Chain
+11446	Assumption Cathedral
+11447	Adventure Stables
+11448	Mack Lake
+11449	Provincial Park
+11450	Tower Hill Museum
+11451	Lioness Lake
+11452	Lake Nipissing
+11453	Provincial Park
+11454	Green Golf Course
+11455	Symphony Orchestra
+11456	Theatre Cambrian
+11457	Anderson Farm Museum
+11458	Green Gables
+11459	UPEI
+11460	Victoria Park
+11461	Provincial Park
+11462	Prince Battery
+11463	City Hall
+11464	Assiniboine Zoo
+11465	Legislate Building
+11466	Assiniboine Park
+11467	Cedar Creek Estate
+11468	Waterfront Park
+11469	Knox Mountain Park
+11470	Heritage Museum
+11471	Japanese Garden
+11472	City Park
+11473	Military Museum
+11474	Bear Creek Park
+11475	Provincial Park
+11476	Cheltenham Badlands
+11477	International Centre
+11478	Memorial Park
+11479	Family Fun Centre
+11480	Playdium
+11481	Brampton City Hall
+11482	Paradise Gardens
+11483	Blackwood Gallery
+11484	Pearson Center
+11485	Ranney Bridge
+11486	Fire Fighters Museum
+11487	Golf Club
+11488	Farm Society Grounds
+11489	Golf Course
+11490	Big Apple
+11491	Golf Course
+11492	Dorothy Museum
+11493	Provincial Park
+11494	Hockey Heritage
+11495	Historical Museum
+11496	Museum of History
+11497	Esker Lakes
+11498	Provincial Park
+11499	Shortest Bridge
+11500	Heritage Museum
+11501	Cobalt Museum
+11502	Devil's Rock
+11503	Muskoka Lakes Museum
+11504	Provincial Park
+11505	Norwood Cinemas
+11506	Heritage Place
+11507	Heritage Museum
+11508	Wildlife Centre
+11509	Gull Lake Park
+11510	Muskoka Bay Club
+11511	Aerial Park
+11512	Adventure Park
+11513	Scout Valley
+11514	Beach Park
+11515	Golf Bonaire
+11516	Provincial Park
+11517	Barrie Paintball
+11518	Golf Centre
+11519	Martial Museum
+11520	Nature Park
+11521	Maple Museum
+11522	Silver Lake Park
+11523	Place Town Hall
+11524	St. Peter Church
+11525	McMartin House
+11526	Mill Conserve Area
+11527	Blue Heron Golf Club
+11528	Five Span Bridge
+11529	Heritage Museum
+11530	Harrison Park
+11531	Inglis Falls
+11532	Marine-Rail Museum
+11533	Aquatic Center
+11534	Run Horse Park
+11535	Provincial Park
+11536	Central West Church
+11537	Grey Roots Museum
+11538	Blue Mountain
+11539	Emerald Lake
+11540	Icefields Parkway
+11541	Natural Bridge
+11542	Lake Vermillion
+11543	Mistaya Canyon
+11544	Takakaw Falls
+11545	Salmon Arm
+11546	Bow Valley
+11547	Field
+11548	Pyramid Lake
+11549	Jasper Town
+11550	Maligne Canyon
+11551	Wildlife Museum
+11552	Archives
+11553	Old Fort Point
+11554	Marmot Basin
+11555	Aquatic Centre
+11556	Art Gallery
+11557	Provincial Park
+11558	Bingo Country
+11559	Rock Conserve Area
+11560	Oil Museum of Canada
+11561	Moore Museum
+11562	Golf Resort
+11563	Imperial Theatre
+11564	County Museum
+11565	Sunset Golf
+11566	Parkwood Estate
+11567	Golf Club
+11568	Golf Club
+11569	Heritage Railway
+11570	Jungle Cat Park
+11571	Glen Golf Course
+11572	Uxbridge Centre
+11573	Conservation Area
+11574	Memorial Park
+11575	Uncle Tom's Cabin
+11576	Wallaceburg
+11577	Fairfield Museum
+11578	Provincial Park
+11579	Convention Centre
+11580	Monument
+11581	Historic Site
+11582	Mary Webb Centre
+11583	Chatham-Kent Museum
+11584	Development Museum
+11585	Saskatchewan College
+11586	Forestry Farm Park
+11587	Ukrainian Museum
+11588	Conserve Area
+11589	Marquis Downs
+11590	The Strawberry Ranch
+11591	9Mile Brewing
+11592	Canada Centre
+11593	Stone Hall Castle
+11594	Royal  Museum
+11595	Legislative Building
+11596	Farmers' Market
+11597	Globe Theatre
+11598	Casino Regina
+11599	MacKenzie Gallery
+11600	Waterfall Park
+11601	Public Library
+11602	West Develop Museum
+11603	Pioneer Village
+11604	Casino Moose Jaw
+11605	Cultural Centre
+11606	Moose Jaw Museum
+11607	Provincial Park
+11608	Crescent Park
+11609	Moose Monument
+11610	Maxwell Art Gallery
+11611	Grey Owl Cabin
+11612	The Mann Art Gallery
+11613	Historical Museum
+11614	North Lights Casino
+11615	Kinsmen Water Park
+11616	House Museum
+11617	Vintage Power Museum
+11618	Lil Red River Park
+11619	Spruce River Market
+11620	Bondi Beach
+11621	Sydney Opera House
+11622	Harbour Bridge
+11623	Royal Botanic Garden
+11624	University of Sydney
+11625	St Mary's Cathedral
+11626	Taronga Zoo
+11627	Blue Mountains Park
+11628	Royal Gardens MEL
+11629	Street Station
+11630	State Library
+11631	St. Patrick Church
+11632	Federation Square
+11633	Unimelb
+11634	National Gallery
+11635	Yarra River
+11636	Warner Bros. World
+11637	Surfers Paradise
+11638	Sea World
+11639	Wildlife Sanctuary
+11640	Dreamworld
+11641	Broad Beach
+11642	Queensland No.1
+11643	Paradise Farm
+11644	Green Island
+11645	Palm Cove
+11646	Daintree Rainforest
+11647	Centenary Gardens
+11648	Cairns Aquarium
+11649	PortDouglas
+11650	Barron Falls
+11651	National Park
+11652	Koala Sanctuary
+11653	South Bank Parklands
+11654	UQ
+11655	Story Bridge
+11656	Kangaroo Point
+11657	Brisbane River
+11658	Brisbane City Hall
+11659	Springbrook Park
+11660	Rottnest Island
+11661	Fremantle
+11662	Kings Park
+11663	West Aus University
+11664	Perth Zoo
+11665	Cottesloe Beach
+11666	Swan River
+11667	Caversham Zoo
+11668	Parliament House
+11669	Lake Burley Griffin
+11670	Green Gardens
+11671	War Memorial
+11672	Royal Mint
+11673	Floriade
+11674	National Museum
+11675	National University
+11676	Henley Beach
+11677	Adelaide Zoo
+11678	Botanic Gardens
+11679	Art Gallery
+11680	State Library
+11681	Mount Lofty
+11682	St Peter's Cathedral
+11683	North Terrace
+11684	South Bank Parklands
+11685	Whiteheaven Beach
+11686	Brisbane City Hall
+11687	UQ
+11688	Heart Reef
+11689	Hamilton Island
+11690	Kangaroo Point
+11691	Airlie Beach
+11692	Twelve Apostles
+11693	Loch Ard Gorge
+11694	London Bridge
+11695	Bells Beach
+11696	Port Campbell
+11697	Point Lighthouse
+11698	Lorne
+11699	Gibson Steps
+11700	Mount Wellington
+11701	Richmond
+11702	Salamanca Place
+11703	Battery Point
+11704	UTAS
+11705	Cascade Brewery
+11706	North Hobart
+11707	Richmond Bridge
+11708	National Park
+11709	Three Sisters
+11710	Scenic Worl
+11711	Katoomba
+11712	Mount Wilson
+11713	Razor Ridge Winery
+11714	Wentworth Falls
+11715	Hat Hill Gallery
+11716	Kings Canyon
+11717	National Park
+11718	kata tjuta
+11719	Alice Springs
+11720	Field of Light
+11721	Walpa
+11722	Camel Farm
+11723	Valley of the Winds
+11724	Airlie Beach
+11725	Airlie Beach Lagoon
+11726	Hill inlet
+11727	Shute Harbour
+11728	Osa Mountain
+11729	Information centre
+11730	Extreme Fitness
+11731	Plosse Pine
+11732	Hamilton Island
+11733	Wildlife
+11734	DayDream Island
+11735	Hayman Island
+11736	Catseye Beach
+11737	Dent Island
+11738	All Saints Church
+11739	Conway National Park
+11740	Byron Bay
+11741	Cape Byron
+11742	Cape Lighthouse
+11743	Lighthouse Trail
+11744	Stone&Wood Brewery
+11745	Byron Farm
+11746	Farmers Market
+11747	Fisherman's Lookout
+11748	Government House
+11749	Wave Lagoon
+11750	Botanic Gardens
+11751	Pearling Exhibition
+11752	Skycity Casino
+11753	Military Museum
+11754	Chinese Temple
+11755	Indo Pacific Marine
+11756	Hamilton Island
+11757	Holy Trinity Church
+11758	Fort Hamilton
+11759	Admiralty House Park
+11760	Waikato River
+11761	Catseye Beach
+11762	Hamilton Isle Marina
+11763	Passage Peak
+11764	Stanwell Park Beach
+11765	Figure Eight Pools
+11766	Symbio Wildlife Park
+11767	Sea Cliff Bridge
+11768	Wollongong Beacon
+11769	Nan Tien Temple
+11770	Nan Tien Temple
+11771	Wollongong
+11772	Remarkable Rocks
+11773	Seal bay
+11774	Honey Farm
+11775	Little Sahara
+11776	Wildlife Park
+11777	Vivonne Bay
+11778	National Park
+11779	Cape du Couedic
+11780	Daintree Rainforest
+11781	Wildlife Habitat
+11782	Four Mile Beach
+11783	Cape Tribulation
+11784	Janbal Gallery
+11785	Wet Tropics
+11786	Riverway
+11787	Mosman Gorge
+11788	Crocodile Adventures
+11789	Noosa River
+11790	Peregian Beach
+11791	Visitor Centre
+11792	National Park
+11793	Farmers Market
+11794	Laguna Lookout
+11795	Hastings Street
+11796	Noosa Main Beach
+11797	Hastings Street
+11798	Fraser Island
+11799	Lake McKenzie
+11800	75 Mile Beach
+11801	Wanggoolba Creek
+11802	Lake Wabby
+11803	Central Rainforest
+11804	Lake Birrabeen
+11805	Waddy Point
+11806	Maheno Shipwreck
+11807	Leeuwin Lighthouse
+11808	Lake Cave
+11809	Hamelin Bay
+11810	Cowaramup
+11811	Road Walk Trails
+11812	Redgate Beach
+11813	Mammoth Cave
+11814	Voyager Estate
+11815	Amelia Park
+11816	Castle Hill
+11817	Reef HQ
+11818	The Strand
+11819	Mount Stuart
+11820	Botanic Gardens
+11821	Maritime Museum
+11822	Bluewater
+11823	Air Force Museum
+11824	Cultural Centre
+11825	Crocodile Park
+11826	Reddell Beach
+11827	Horizontal Falls
+11828	Broome Town Beach
+11829	Japanese Cemetary
+11830	12 Mile Bird Park
+11831	Historical Museum
+11832	Buddha Sanctuary
+11833	Sacred Heart Church
+11834	Scenic Railway
+11835	Barron Falls Lookout
+11836	Birdworld Kuranda
+11837	Rainforest Tours
+11838	Honey House
+11839	Butterfly Sanctuary
+11840	Aboriginal Gallery
+11841	Venom Zoo
+11842	Kuranda Village
+11843	The Pinnacles
+11844	Wave Rock
+11845	Jurien Bay
+11846	Lobster Shack
+11847	National Park
+11848	Wave Rock
+11849	National Park
+11850	Nature Reserve
+11851	Pinnacles Edge
+11852	Kirra Sports Club
+11853	St. Peter's Church
+11854	Healing Centre
+11855	Twin Towns Church
+11856	Saint Augustine
+11857	CAPT Cook Memorial
+11858	Coolangatta
+11859	coolangatta danger
+11860	Squid rock
+11861	Penfolds
+11862	Visitor Centre
+11863	Lavender Farm
+11864	Tanunda Estate
+11865	Rose Garden
+11866	St Hugo
+11867	Barossa Daimler
+11868	Whispering Wall
+11869	Lyndoch Hill
+11870	Sunshine Coast
+11871	Noosa National Park
+11872	Australia Zoo
+11873	Sunshine Coast Beach
+11874	UnderWater World
+11875	Gowinta Farms
+11876	Aussie World
+11877	Ginger Factory
+11878	Coastal Track
+11879	Country Cottages
+11880	Motor Inn
+11881	The Arch
+11882	The Grotto
+11883	National Park
+11884	Port Campbell
+11885	London Bridge
+11886	Loch Ard Gorge
+11887	The Razorback
+11888	Lorne
+11889	Erskine Falls
+11890	Teddy's Lookout
+11891	Memorial Arch
+11892	Cumberland Lorne
+11893	Coachman Inn
+11894	Lorne Bay
+11895	Qdos
+11896	Honeysuckle Cottage
+11897	National Park
+11898	Natural Bridge
+11899	Red Bluff
+11900	Jakes Point Road
+11901	Island Rock
+11902	Pelican
+11903	Beach Resort
+11904	Seafront Villas
+11905	Best Western
+11906	Cairns Night Zoo
+11907	Barron Falls
+11908	Trinity Beach
+11909	Palm Cove
+11910	Alamanda
+11911	Oasis
+11912	Marlin Waters
+11913	The Reef House
+11914	Mango Lagoon
+11915	Cradle Mountain
+11916	Dove Lake
+11917	Lake St. Claire
+11918	The Overland Track
+11919	National Park
+11920	Lake St. Clair
+11921	Granary
+11922	Lemonthyme
+11923	Silver Ridge
+11924	Diamond Island
+11925	Penguin Tour
+11926	Wintersun Gardens
+11927	Backpackers
+11928	Ocean View Retreat
+11929	Harvey Farm Lodge
+11930	Blowhole
+11931	Bicheno
+11932	Beach Bungalow
+11933	Baywall Bollards
+11934	Heritage Centre
+11935	Jack Rabbit Vineyard
+11936	Regional Park
+11937	Tuckerberry Hill
+11938	Rippleside Park
+11939	Parkside
+11940	Corio Bay
+11941	Parkwood
+11942	Casa Favilla
+11943	7 Falls Apartments
+11944	Beeches By The Sea
+11945	Rayville Boat
+11946	Sandpiper Motel
+11947	A Great Ocean View
+11948	Beachfront Motel
+11949	Angela's Beach
+11950	Beachcomber Motel
+11951	Cataract George
+11952	Laucenston
+11953	City Park
+11954	Elphin Villas
+11955	Olde Tudor
+11956	Hotel City Park
+11957	The Old Bakery
+11958	Country Club
+11959	Launceston
+11960	British Museum
+11961	Buckingham Palace
+11962	Westminster Abbey
+11963	Tower Bridge
+11964	London Eye
+11965	Hyde Park
+11966	Oxford Street
+11967	National Gallery
+11968	Edinburgh Castle
+11969	Calton Hill
+11970	Royal Mile
+11971	St.Giles' Cathedral
+11972	Arthur's Seat
+11973	Scott Monument
+11974	Princes Gardens
+11975	Holyroodhouse Palace
+11976	Mathematical Bridge
+11977	Queens' College
+11978	King College Chapel
+11979	Trinity College
+11980	St. John’s College
+11981	River Cam
+11982	Cambridge
+11983	King‘s College
+11984	Old Trafford
+11985	UoM
+11986	Town Hall
+11987	John Rylands Library
+11988	Albert Square
+11989	Football Museum
+11990	Manchester Cathedral
+11991	Gay Village
+11992	University of Oxford
+11993	Blenheim Palace
+11994	Bridge of Sighs
+11995	All Souls College
+11996	Museum of Oxford
+11997	Magdalen College
+11998	Oxford Castle
+11999	Balliol College
+12000	York Minster
+12001	York City Walls
+12002	Clifford's Tower
+12003	The Shambles
+12004	Museum Gardens
+12005	University of York
+12006	Yorkshire Museum
+12007	The York Dungeon
+12008	The Griffin
+12009	Redcar
+12010	Royal Hotel
+12011	Francis
+12012	Abbey
+12013	Henrietta
+12014	Dorian
+12015	Parade Park
+12016	Windermere
+12017	Grasmere
+12018	Keswick
+12019	Orrest Head
+12020	Buttermere
+12021	Ambleside
+12022	Orrest Head
+12023	Wray Castle
+12024	Cadbury World
+12025	Birmingham Library
+12026	Victoria Square
+12027	St. Martin Church
+12028	National Aquarium
+12029	Gas Street Basin
+12030	The Pen Museum
+12031	Jewellery Quarter
+12032	Albert Dock
+12033	Anfield Stadium
+12034	The Cavern Club
+12035	Pier Head
+12036	Museum of Liverpool
+12037	Chinatown
+12038	Sefton Park
+12039	Walker Art Gallery
+12040	Weston Park
+12041	The Arts Tower
+12042	Winter Garden
+12043	Sheffield University
+12044	Cathedral Church
+12045	Town Hall
+12046	Hallam University
+12047	The Peace Gardens
+12048	The Needles
+12049	Isle of Wight
+12050	Osborne House
+12051	Carisbrooke Castle
+12052	Isle of Wight Zoo
+12053	Seaview Encounter
+12054	Sandown Pier
+12055	The Needles Park
+12056	UoN
+12057	Wollaton Hall
+12058	Galleries of Justice
+12059	City of Caves
+12060	Highfields Park
+12061	St. Mary's Church
+12062	Old Market Square
+12063	Nottingham Castle
+12064	Newcastle University
+12065	Millenium Bridge
+12066	The Tyne Bridge
+12067	Newcastle China Town
+12068	St James' Park
+12069	Dolphina Park
+12070	Fun Farm
+12071	The Packing Shed
+12072	Titanic Belfast
+12073	Belfast City Hall
+12074	QUB
+12075	Belfast Peace Wall
+12076	Belfast Castle
+12077	Memorial Clock Tower
+12078	Ulster Museum
+12079	Botanic Garden
+12080	Cardiff Castle
+12081	Cardiff University
+12082	Bute Park
+12083	Cardiff City Hall
+12084	Dr Who Experience
+12085	Llandaff Cathedral
+12086	National Museum
+12087	Roath Park Gardens
+12088	Windsor Castle
+12089	Eton College
+12090	St. George's Chapel
+12091	Legoland Resort
+12092	Mary's Doll House
+12093	Frogmore House
+12094	legoland Windsor
+12095	Alexandra Gardens
+12096	Brighton Beach
+12097	Brighton Pier
+12098	Royal Pavilion
+12099	The Lanes
+12100	Sea Life Brighton
+12101	Brighton Dome
+12102	North Laine
+12103	Theatre Royal
+12104	Loch Ness
+12105	Isle of Skye
+12106	Scottish Highlands
+12107	Eilean Donan Castle
+12108	Inverness
+12109	Old Man of the Storr
+12110	Glen coe
+12111	Glenfinnan Viaduct
+12112	Glasgow University
+12113	George Square
+12114	Buchanan Street
+12115	Kelvingrove Park
+12116	The Necropolis
+12117	Modern Art Gallery
+12118	The Hunterian Museum
+12119	Riverside Museum
+12120	Warwick Arts Centre
+12121	Holy Trinity Church
+12122	War Memorial Park
+12123	Midland Air Museum
+12124	Herbert Art Gallery
+12125	St. Mary's Guildhall
+12126	Leisure Centre
+12127	Flight Simulators
+12128	Criterion Theatre
+12129	Shakespeare's House
+12130	Harvard House
+12131	Shakespeare Centre
+12132	Holy Trinity Church
+12133	Bancroft Gardens
+12134	American Fountain
+12135	Firs Gardens
+12136	Tudor World
+12137	The Greenway
+12138	St. Michael's Mount
+12139	Merlin's Cave
+12140	Museum of Witchcraft
+12141	Paradise Park
+12142	Sennan Cornwall
+12143	Carbis Bay
+12144	Trebah Gardens
+12145	St Michael's Mount
+12146	The Lost Gardens
+12147	Soton
+12148	Queens Park
+12149	SeaCity Museum
+12150	The Old Cemetery
+12151	Westgate
+12152	Nuffield Theatre
+12153	Holy Rood Church
+12154	Riverside Park
+12155	Merchant's House
+12156	University of Leeds
+12157	City Museum
+12158	Leeds Art Gallery
+12159	City Square
+12160	Kirkstall Abbey
+12161	Thornton's Arcade
+12162	Town Hall
+12163	Millennium Square
+12164	Woodhouse Moor
+12165	Ben Nevis
+12166	Fort William Ruins
+12167	Steam Train
+12168	West Highland Museum
+12169	Inverlochy Castle
+12170	Cruachan Hotel
+12171	Glengarry Castle
+12172	Clan Macduff
+12173	The Kelvin Hotel
+12174	Canterbury Cathedral
+12175	St Augustine's Abbey
+12176	University of Kent
+12177	West Gate
+12178	Heritage Museum
+12179	St. Martin's Church
+12180	Canterbury Castle
+12181	Canterbury Tales
+12182	Roman Museum
+12183	Suspension Bridge
+12184	Bristol Cathedral
+12185	Bristol
+12186	Nelson Street
+12187	City Hall
+12188	Wills Museum
+12189	Nature Park
+12190	Cabot Tower
+12191	The Victoria Rooms
+12192	Royal Observatory
+12193	Greenwich Park
+12194	Greenwich University
+12195	Artillery Museum
+12196	Eltham Palace
+12197	The Valley
+12198	Bridge Station
+12199	Greenwich Road
+12200	The Clarendon Hotel
+12201	Windermere
+12202	Orrest Head
+12203	Grasmere
+12204	Wray Castle
+12205	Holehird Gardens
+12206	Orrest Head
+12207	Ambleside
+12208	Rydal Water
+12209	Dove Cottage
+12210	Cathedral
+12211	St Andrews Castle
+12212	West Sands
+12213	Old Course
+12214	Country Park
+12215	Swilken Burn Bridge
+12216	St Andrews Links
+12217	Aquarium
+12218	Golf Museum
+12219	Castle Howard
+12220	Whitby Abbey
+12221	Ouse River
+12222	Selby Abbey
+12223	Rievaulx Abbey
+12224	Lavender
+12225	Robin Hood's Bay
+12226	Filey
+12227	Sutton Park
+12228	Rhossili Bay
+12229	Swansea Beach
+12230	Swansea Marina
+12231	Swansea Museum
+12232	Singleton Park
+12233	Gower Peninsula
+12234	Clyne Gardens
+12235	Pennard Castle
+12236	Llangennith Beach
+12237	Nation Space Centre
+12238	Leicester Abbey
+12239	Botanic Garden
+12240	John Clare Cottage
+12241	Belgrave Road
+12242	Jewry Wall
+12243	Phoenix Cinema
+12244	Abbey Pump Station
+12245	National Gas Museum
+12246	Royal Citadel
+12247	Plymouth Guildhall
+12248	Elizabethan Gardens
+12249	Burgh Island
+12250	St. Andrew's Church
+12251	Maritime Exhibition
+12252	Waterfront Walkway
+12253	Mayflower Exhibition
+12254	Marine Aquarium
+12255	Whitby Abbey
+12256	Whitby Beach
+12257	Whitby Harbour
+12258	Whitby Museum
+12259	Memorial Museum
+12260	St Mary's Church
+12261	St Hilda's Church
+12262	Pannett Park
+12263	Foss Tea Garden
+12264	Riverside Walk
+12265	Earlham Park
+12266	Norwich Building
+12267	Football Stadium
+12268	Mandells Gallery
+12269	Eaton Park
+12270	Wensum Park
+12271	Norwich Castle
+12272	UEA
+12273	Spinnaker Tower
+12274	Historic Dockyard
+12275	Portsmouth Dockyard
+12276	Royal Naval Museum
+12277	Southsea Castle
+12278	Cathedral
+12279	Museum
+12280	Blue Reef Aquarium
+12281	Fort Nelson
+12282	Maritime Museum
+12283	City Beach
+12284	Wallace Statue
+12285	Library
+12286	Seaton Park
+12287	Footdee
+12288	Aberdeen Harbour
+12289	Duthie Park
+12290	Johnstone Gardens
+12291	Stirling Castle
+12292	Wallace Monument
+12293	Park Centre
+12294	Old Town Jail
+12295	Holy Rude Church
+12296	Argyll's Lodging
+12297	Cambuskenneth Abbey
+12298	Information Centre
+12299	Snooker & Darts Club

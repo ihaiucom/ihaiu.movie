@@ -1,0 +1,4 @@
+﻿int	string	string	string
+id	key	文本内容	备注
+id	key	zh_cn_text	cn
+1001	unlogin	未登录	未登录提示字样

@@ -1,0 +1,3 @@
+﻿int	int	int	int	int[]	int	string
+ID	艺人ID	助理类型	固定加成类型|n|1擅长加成|n|2培养次数	固定加成参数	解锁等级	备注
+id	actor	aide_type	attach_type	value	lv	tips

@@ -1,0 +1,258 @@
+[
+  {
+    "package": "fsprite",
+    "path": "/fsprite/ActivityIcon@atlas0.png",
+    "size": 122840,
+    "width": 512,
+    "height": 256,
+    "memory": 524288
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/ActorBodyIcon@atlas0.png",
+    "size": 4177871,
+    "width": 2048,
+    "height": 2048,
+    "memory": 16777216
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/ActorBodyIcon@atlas0_1.png",
+    "size": 4026437,
+    "width": 2048,
+    "height": 2048,
+    "memory": 16777216
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/ActorBodyIcon@atlas0_2.png",
+    "size": 4002424,
+    "width": 2048,
+    "height": 2048,
+    "memory": 16777216
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/ActorBodyIcon@atlas0_3.png",
+    "size": 3723316,
+    "width": 2048,
+    "height": 2048,
+    "memory": 16777216
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/ActorBodyIcon@atlas0_4.png",
+    "size": 3798761,
+    "width": 2048,
+    "height": 2048,
+    "memory": 16777216
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/ActorBodyIcon@atlas0_5.png",
+    "size": 366607,
+    "width": 1024,
+    "height": 512,
+    "memory": 2097152
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/ActorHeadIcon@atlas0.png",
+    "size": 1157419,
+    "width": 1024,
+    "height": 1024,
+    "memory": 4194304
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/ActorPieceIcon@atlas0.png",
+    "size": 383269,
+    "width": 1024,
+    "height": 1024,
+    "memory": 4194304
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/BlockIcon@atlas0.png",
+    "size": 388539,
+    "width": 1024,
+    "height": 512,
+    "memory": 2097152
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/Building@atlas0.png",
+    "size": 3499868,
+    "width": 2048,
+    "height": 2048,
+    "memory": 16777216
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/Building@atlas0_1.png",
+    "size": 4217376,
+    "width": 2048,
+    "height": 2048,
+    "memory": 16777216
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/BuildingSmall@atlas0.png",
+    "size": 2251997,
+    "width": 2048,
+    "height": 1024,
+    "memory": 8388608
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/CinemaIcon@atlas0.png",
+    "size": 47291,
+    "width": 512,
+    "height": 512,
+    "memory": 1048576
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/GeneralIcon@atlas0.png",
+    "size": 18219,
+    "width": 256,
+    "height": 128,
+    "memory": 131072
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/Icon_En@atlas0.png",
+    "size": 279741,
+    "width": 1024,
+    "height": 512,
+    "memory": 2097152
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/Icon_ZH_CN@atlas0.png",
+    "size": 281905,
+    "width": 1024,
+    "height": 512,
+    "memory": 2097152
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/ItemIcon@atlas0.png",
+    "size": 1045691,
+    "width": 1024,
+    "height": 1024,
+    "memory": 4194304
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/MeetingIcon@atlas0.png",
+    "size": 100290,
+    "width": 512,
+    "height": 512,
+    "memory": 1048576
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/MenuIcon@atlas0.png",
+    "size": 437954,
+    "width": 1024,
+    "height": 512,
+    "memory": 2097152
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/NPCHeadIcon@atlas0.png",
+    "size": 778666,
+    "width": 1024,
+    "height": 1024,
+    "memory": 4194304
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/PlayerBodyIcon@atlas0.png",
+    "size": 1221317,
+    "width": 2048,
+    "height": 1024,
+    "memory": 8388608
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/PlayerHeadIcon@atlas0.png",
+    "size": 548626,
+    "width": 1024,
+    "height": 512,
+    "memory": 2097152
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/PopularityIcon@atlas0.png",
+    "size": 145059,
+    "width": 2048,
+    "height": 1024,
+    "memory": 8388608
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/SettingIcon@atlas0.png",
+    "size": 126681,
+    "width": 512,
+    "height": 256,
+    "memory": 524288
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/ShootIcon@atlas0.png",
+    "size": 1240089,
+    "width": 1024,
+    "height": 1024,
+    "memory": 4194304
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/SkillIcon@atlas0.png",
+    "size": 233855,
+    "width": 512,
+    "height": 256,
+    "memory": 524288
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/StoryIcon@atlas0.png",
+    "size": 8586295,
+    "width": 2048,
+    "height": 2048,
+    "memory": 16777216
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/StoryIcon@atlas0_1.png",
+    "size": 7512064,
+    "width": 2048,
+    "height": 2048,
+    "memory": 16777216
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/StoryIcon@atlas0_2.png",
+    "size": 8532049,
+    "width": 2048,
+    "height": 2048,
+    "memory": 16777216
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/StoryIcon@atlas0_3.png",
+    "size": 3123981,
+    "width": 2048,
+    "height": 1024,
+    "memory": 8388608
+  },
+  {
+    "package": "fsprite",
+    "path": "/fsprite/StoryStackIcon@atlas0.png",
+    "size": 17061,
+    "width": 128,
+    "height": 128,
+    "memory": 65536
+  }
+]

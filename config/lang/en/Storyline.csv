@@ -1,0 +1,337 @@
+﻿int	string	string	string
+id|n|剧情组*100+顺序	界面内容|n|{name}主角名字	气泡内容|n|{city}=占领城市|n|{name}=玩家名称	半身像名字|n|{name}=玩家名称|n|{actor}=初始艺人名称
+id	ui_content	content	name
+100101		Oh, there you are! This is the cinema you told me to purchase. We're ready to open for business! Looks like you're pretty serious about this.	Bonita
+100102	Bonita Fernandez|n|A producer you worked with several times during your acting career. Tired of the film industry, she decided to join you when you raised the idea of changing the rules of the movie business.		Bonita
+100103		Ha ha, of course. How are our preparations going?	{name}
+100104		The cinema's equipment are all still in working condition. We just have to tidy it up a little. Then it's just a matter of when you want to officially open!	Bonita
+100105		Thank you for your hard work. Let's begin!	{name}
+100106		That's what I want to hear!	Bonita
+100201		There is one problem though. Megastar Films knows about this cinema. They're already pressuring all the distributors they work with to refuse to send us any films to screen.	Bonita
+100202		Don't worry. If that's the case, then we'll just have to make our own movies! Soon they'll be begging us to let them screen our films. It's a good thing I saved a lot of money from when I was an actor. Let's get to work!	{name}
+100203		That's the spirit! This is why I chose to join you. Let's start building our Cinema!	Bonita
+100204		I'll leave planning the Cinema to you. I'll take care of looking for actors.	{name}
+100205		Now that you mention it, I'm sure Megastar Films has also banned all their actors from working with us.	Bonita
+100206		That won't be a problem. I've been an actor for a long time after all. Trust me, once we have our first actor, many more will follow!	{name}
+100301		May I present… our first actor!	{name}
+100302		Wow, you sure are capable, aren't you? Hm… Looks like quite the professional. I surely hope you're as good as you look. Alright, let's build our Cinema now!	Bonita
+100401	Word is that {name} is officially in the movie industry!		
+100402		I've also contacted some investors. They're interested in your new business, so they made an investment.	Bonita
+100403		Ha, they won't be disappointed.	{name}
+100404		The investors said they would consider making additional investments depending on our progress. I'll remind you again when the time comes!	Bonita
+100405		Thanks! You're so dependable.	{name}
+100406		Well, I'm just doing my job.	Bonita
+100407		Alright! Let's start on our first movie! We'll defeat Megastar Films sooner or later!	{name}
+100408		Wow, hold your horse, cowboy~ We still need to build a Filming Studio before we can start shooting movies.	Bonita
+100501		Okay, we have our actors and our studio. Let's begin shooting!	Bonita
+100601		All of these seem pretty good. What do you think?	{name}
+100602		Different screenplays attract different audiences. We have to look at what the market's like before we make a decision.	Bonita
+100603		However, we don't have a market research team yet, so let's just go by feel this time.	Bonita
+100604		By feel? I can do that! I'll use the mask's power to see which one has the greatest potential!	{name}
+100701		Now we have to think about casting. Everyone has had a moment where they thought, "They should have casted *that* actor." But don't just decide based on personal preference!	Bonita
+100702		Hey, wake up… We only have one actor. Unless you're counting me as well. Were you worried I was going to cast myself?	{name}
+100703		You're right… Sigh, I guess we don't have a choice. Let's cast our one and only actor!	Bonita
+100704		Ha ha, though we only have one, our actor is an amazing one!	{name}
+100801		Since we don't have enough actors, the other roles will have to be played by extras.	{name}
+100802		To look on the bright side, we don't have to pay extras a fee.	Bonita
+100803		Money isn't a big problem for us right now anyway. If it's possible, it's best not to scrimp on hiring good actors. Extras won't be able to make truly amazing films. (Besides, with that mask, I can see precisely how much each actor will contribute to a film…)	{name}
+100804		Star actors sure are rich, huh. Of course I understand! Good actors and a good screenplay are essential for a great film!	{name}
+100805		Star actors sure are rich, huh. Of course I understand! Good actors and a good screenplay are essential for a great film!	Bonita
+100901		Alright, we're just about done shooting this movie! How do you feel?	Bonita
+100902		I've never been through an entire shooting process before… Anyway, once this movie is showing, we need to get more actors as quickly as we can. We can't have an extra playing the other lead next time	{name}
+100903		Done at last! I hope we'll be able to win some fans when it starts playing.	{actor}
+100904		I've asked all the industry people I'm familiar to start screening our movie. Let's see how the box office goes!	Bonita
+100905		I thought Megastar Films had already made me persona non grata. How did you manage convince them?	{name}
+100906		Oh, I have my ways!	Bonita
+100907		Hm… These reviews don't look too good…	Bonita
+100908		You're right. Reputation has a big influence on box office sales. Most people still prefer watching spectacular movies wth good stories.	{name}
+100909		As our fame grows, I'm sure we'll get better screenplays and—	{actor}
+100910		And star actors! You'll have to work hard. Once you're a real A-list actor, you'll have your own reputation level and box office power!	Bonita
+100911		Ths result isn't bad considering it's our first movie and that we only have one actor.	{name}
+100912		That's true. Some people seem to like it quite a lot. I recognized a few people who came for a second watch!	Bonita
+101001		I hope that one day our movies will be on all these billboards!	{name}
+101002		Back when you were an actor, your movies were! We've only just begun, but I believe that we can do it.	Bonita
+101003		Ha ha, that's the spirit! You're right, we'll definitely make it, no matter how Megastar Films tries to obstruct us…	{name}
+101004		Of course we'll make it. You have me as your assistant after all! With my talent and your resources, we're synonymous with success!	Bonita
+101005		Ha ha ha! So, what should we do next, my talented assistant?	{name}
+101006		Well, our company is currently still in the early stages. We should start with basic on-the-ground marketing, slowly growing our influence and expanding our fanbase! We can also get more fund by working with sponsors.	Bonita
+101007		Well said. Rome wasn't built in a day, as they say. One day we'll show Megastar Films that their little tricks don't work on us!	{name}
+101008		That's right! Now, if you're done with the inspirational speech, let's get to work!	Bonita
+101101		It says here in your report that you think that magical item is in {name}'s hands?	Kevin Huth
+101102	Kevin Huth|n|CEO of Megastar Films. He controls the city's movie industry. Cold and ruthless, he will do anything to achieve his goals.		Kevin Huth
+101103		That is correct. According to my investigations, it is highly likely that {name} has obtained the Star Mask. It explains why they suddenly decided to quit acting and start a movie company.	Janine Opare
+101104	Janine Opare|n|A highly capable private detective who doesn't keep official records. She has been hired by Megastar Films to find out where the Star Mask is located.		Janine Opare
+101105		That makes sense. Well then, I look forward to your next report.	Kevin Huth
+101106		Ah… Strange… Why do I always feel like there's someone following me?	{name}
+101107		You must be imagining things! You must have been traumatized by the paparazzi when you were an actor. Quick, let's finish this round of advertising!	Bonita
+101201		Remember you said you felt like someone has been following you? Um… Maybe it wasn't just your imagination after all. I've noticed it too during our advertising activities.	Bonita
+101202		It must be someone gathering information for Megastar Films. Well, since they care about us so much, it would be a shame to let them return emptyhanded!	{name}
+101203		Huh? What do you mean? Don't tell me…	Bonita
+101204		That's right! We're pretty much done advertising in these locations. It's time to head to the city center for a big roadshow! That'll give them something to talk about!	{name}
+101205		Not a bad idea… That will greatly increase awareness of our company. At the same time, by putting ourselves in the spotlight will make it hard for Megastar Films to mess around.	Bonita
+101206		We can also encourage local cinephiles to start a fan club! That way, we will keep on winning new fans!	{name}
+101207		Good thinking! I'm impressed. Let's do that!	Bonita
+101301		The roadshow was a success! With our encouragement, our fans have also started a fan club! We'll keep getting more and more fans from now on!	Bonita
+101302		Yes, that went well, as expected. Let's have our headquarters here for the time being, then send our actors out as brand ambassadors. That way, our marketing will be much more effective.	{name}
+101303		That's just what I was thinking! Using this method, we'll take over more and more cities. Sooner or later, our fans will cover the entire world!	Bonita
+101401		Sometimes market trends are even harder to get than fashion trends…	{name}
+101402		Ha ha ha, that's right! Sometimes a movie can be critically acclaimed but bomb at the box office, and sometimes terrible movies can be popular hits! Well, we can't control reviews or ticket sales, but we can make sure our movie is top notch!	Bonita
+101403		Well said. Let's just do what we can to the best of our abilities. I believe audiences will respond appropriately.	{name}
+101404		That's right, Mr Star Actor! Do your best!	Bonita
+101405		Ha ha I've already put my past glories behind me. I'm going to rely on your help from now on!	{name}
+101501		Well done! We've got our second city!	Bonita
+101502		Yes. Even if we don't know what Megastar Films will do next, we can't just sit around doing nothing.	{name}
+101503		Of course. We can only take things as they come. Anyway, with me around, it's not going to be easy for them, no matter what they're planning.	Bonita
+101504		Ha ha ha,  how dependable! Alright, let's carry on working!	{name}
+101601		Things have been going a little too smoothly lately… Sigh, I just hope it's not the calm before a storm.	Bonita
+101602		There's nothing to worry about. We just have to keep doing what we ought to be doing. At the same time, we can prepare for any actions Megastar Films might take.	{name}
+101603		You sound like you have a plan.	Bonita
+101604		Ha ha, let's get the important stuff done first. I'll fill you in later!	{name}
+101701		That plan you were talking about… Are you serious about it?	Bonita
+101702		You mean my plan to pay Kevin a visit? Yes, I am. What's the matter?	{name}
+101703		What do you intend on doing when you meet him?	Bonita
+101704		Invite him to the party we're throwing soon, of course.	{name}
+101705		Hold on a minute. Since when were we throwing a party?	Bonita
+101706		Since now. A special party just for Kevin. Of course, we'll tell him that it's to celebrate our company's success.	{name}
+101707		What's the party's actual purpose then?	Bonita
+101708		I can't tell you just yet. But don't worry, I have everything under control.	{name}
+101801		Everything's gone well so far. Soon our reputation will be equivalent to that of Megastar Films'!	Bonita
+101802		…	{name}
+101803		Hello? {name}? What's wrong? You seem out of it.	Bonita
+101804		Huh? Oh, it's nothing. I was just daydreaming about our glorious future.	{name}
+101805		Are you sure you're okay? You don't look too good. Is there a problem with your plan?	Bonita
+101806		No way. Everything is fine, don't worry. I think I've just been too busy lately, ha ha…	{name}
+101807		Okay. Don't overdo it. We've just started getting ahead. It's going to be bad if we mess up now.	Bonita
+101808		Don't worry. I know what I'm doing.	{name}
+101809		If you say so…	Bonita
+101810		(I can't shake the feeling that {name} is hiding something…)	Bonita
+101901		You know, I really have no idea how these media outlets decide on their movie ratings…	{name}
+101902		They've got professional reviewers, so they're bound to have standards. Those standards being how they feel! Ha ha ha, I'm just joking. Every reviewer has their own criteria.	Bonita
+101903		For example, one reviewer might care about scenario, but another may care about artistic value. So they'll give different scores depending on the movie's various qualities.	Bonita
+101904		(I see. No wonder the mask allows me to see the attributes of each movie… That way, I can estimate how a movie is going to be reviewed, and  modify each movie accordingly.)	{name}
+101905		It looks like we'll have to consider every aspect of the movies we make from now on instead of just winging it.	{name}
+101906		Of course we can't just wing it!	Bonita
+101907		Sigh… When I was an actor, I could pretty much make top-ranking movies by just winging it.	{name}
+101908		That's in the past now! You're in charge of an entire movie company now, not just an actor!	Bonita
+101909		I know, I know. Why does the Film Association have to rank movies anyway? Feels stressful!	{name}
+101910		True, it's 100 companies per group, and every one will fight to top the group… And every company has to start from the Block rank and fight their way up to the City rank, then National rank… From this perspective, you have to respect Megastar Films for becoming number one.	Bonita
+101911		Exactly. Our company is only at Block rank 1. We need to win several awards before we'll be promoted to the next rank. I believe Megastar Films is at the National rank.	{actor}
+101912		National rank is nothing! We're reaching for the stars. One day we'll be at the Galaxy rank!	{name}
+101913		I'm sure we will, boss, but settle down. Before you're number one in the galaxy, why not think about how to be number one on this block first?	Bonita
+102001		(In Kevin's office) Hi, Kevin, it's been a while. I've been meaning to pay you a visit, but as you know, I've been so busy I barely have time to even keep myself hydrated.	{name}
+102002		Ah, welcome! You're as energetic as ever. So, to what do I owe this pleasure?	Kevin Huth
+102003		As you know, my company has made several successful movies recently, and our reputation in this city is growing. Of course, we're nowhere close to Megastar Films' level, but it's a good start for a company like our's.	{name}
+102004		So we're organizing a party to celebrate everything we've achieved so far! I was just wondering if you be so kind as to attend?	{name}
+102005		A party, I see. Thank you for inviting me. I would love to attend. The only thing is, I'm incredibly busy. I'm sure you know how it is.	Kevin Huth
+102006		Ah, of course. As CEO of Megastar Films, you must be busy beyond imagination. But this isn't going to be a big public party. I'm having it in my personal mansion. Of course, every part of my home will be available to my guests.	{name}
+102007		Oh? I've heard that you put a lot of effort into designing your mansion, and that you rarely let people visit.	Kevin Huth
+102008		That's right. I wouldn't dare ask you to take your valuable time out if it was just a normal party.	{name}
+102009		No worries, you don't have to decide right now. I'll leave this invitation card here. If you can make the time, it would be my honor to have you. Goodbye for now.	{name}
+102101		Our company is a lot bigger now than when we first started.	Bonita
+102102		Yeah… We have more things to do too. When I was an actor, all I had to do was follow the director's instructions. Now that I have to deal with everything, I realize how complicated it is… Sometimes I'm so busy I have no idea what I should do next.	{name}
+102103		That's no good! We're all depending on you to make our company a legend!	Bonita
+102104		Of course I will, but I can't do it without your help. Why not start from helping this future legend prepare tomorrow's schedule?	{name}
+102105		Okay, okay. If I wasn't willing, I wouldn't be here. But, let me warn you, my schedules are really demanding!	Bonita
+102201		What do you think {name} is planning by inviting me to this party?	Kevin Huth
+102202		It's hard to say. Probably we'll never know if you don't go.	Janine Opare
+102203		Hmph… By going, I'm definitely giving them free exposure. But (player name) must know that I can't waste this chance to find out the mask.	Kevin Huth
+102204		It is surprising that they've taken the initiative. They must be testing us. Seems like they're not to be taken lightly.	Janine Opare
+102205		No matter what, we can't give up this opportunity. Make the necessary preparations. We'll find out where the mask is at this party and think of a way to make it ours!	Kevin Huth
+102301		I met Kevin and gave him the invitation.	{name}
+102302		Do you think he'll come?	Bonita
+102303		He won't be able to resist.	{name}
+102304		You mean the mask? How did you convince him that you have it?	Bonita
+102305		I didn't have to. He's already convinced himself. The more uncertain he is, the more restless he gets.	{name}
+102306		So you're forcing his hand. Quite the strategist, aren't you?	Bonita
+102307		Ha ha! I still have much more up my sleeve!	{name}
+102401		To be honest, I still don't really understand why you have to put in so much effort into organizing this party. Even if Kevin comes, how does it benefit us?	Bonita
+102402		Do you remember when we were doing advertising, and I felt like I was being watched? I did some investigating and found out it was indeed Megastar Films, but they weren't just trying to find out about our business.	{name}
+102403		No wonder you looked so tired then. You should have told me, I could have helped you investigate.	Bonita
+102404		No, that would have drawn their attention. You focusing on the business would have distracted them as well.	{name}
+102405		Very well… Do you mean that they've suspected we have the mask since the beginning?	Bonita
+102406		That's right. But I don't know how much they know. So… I had to make this plan. We know they'll definitely be up to something at the party. It's better than not knowing when they're going to strike.	{name}
+102407		I understand. I'll keep doing my work as usual. But please let me know if you need any help.	Bonita
+102408		I will, don't worry.	{name}
+102501		We've already done ten roadshows now. Time really flies…	Bonita
+102502		Ha ha, isn't that a good thing? It means that we've been keeping busy.	{name}
+102503		True. But we have to keep getting better! We have to prepare for our party too.	Bonita
+102504		Of course. There's no way I could forget.	{name}
+102601		(In Kevin's office) What do you think of the plan?	Janine Opare
+102602		A bit out of fashion, but it's a classic. It's worth a shot.	Kevin Huth
+102603		Heh heh… New doesn't necessarily mean good. I'll start making preparations then.	Janine Opare
+102701		So, do you understand?	{name}
+102702		Yes, boss. Are you sure you want to do this?	{actor}
+102703		If everything goes well, it'll help us a lot.	{name}
+102704		Okay...Should I inform Miss Bonita too?	{actor}
+102705		I'll tell her, but it's not time yet…	{name}
+102801		Who the heck do you think you are?	{actor}
+102802		Huh? Hey! What's going on?	Bonita
+102803		Think you're big just because you won on Oskar, huh? Stop telling me what to do like you're better than me!	{actor}
+102804		Calm down… What happened?	Bonita
+102805		No, go on. Looks like you've been holding this in for a long time. Come on, just say it all!	{name}
+102806		You'd better watch your attitude. You don't want me telling everyone about *that*, do you?	{actor}
+102807		You…!	{name}
+102808		Whatever. I'm out of here.	{actor}
+102809		W- Wait!	Bonita
+102901		{name} had a public argument with their actor? Heh…	Kevin Huth
+102902		Sounds like a wonderful opportunity, doesn't it?	Janine Opare
+102903		Sounds like you don't think it's so wonderful, Janine.	Kevin Huth
+102904		You're as sharp as ever, Mr Kevin. The timing of this is too good to be true.	Janine Opare
+102905		You think the argument was staged?	Kevin Huth
+102906		Well, we can't be absolutely certain, but it's a strong possibility.	Janine Opare
+102907		What a pointless farce. Nevertheless, we proceed as planned.	Kevin Huth
+102908		Understood. Ho ho, it looks like things are getting more interesting…	Janine Opare
+103001		Hey, what was that all about?	Bonita
+103002		There's nothing I could have done. If someone can't handle working here, maybe it's a good thing to leave.	{name}
+103003		That's not what I'm talking about. What did it mean by "telling everyone about *that*"?	Bonita
+103004		Well… I don't…	{name}
+103005		If it's a personal matter, I couldn't care less. But it's not, is it?	Bonita
+103006		You're right. If *that* thing is revealed, our company is in trouble.	{name}
+103007		A sticky situation, huh? We need to come up with a plan for the worst-case scenario.	Bonita
+103008		I'm sorry… (But I can't tell you the truth yet…)	{name}
+103101		Hi! I would just like to ask, what does it feel like to be unemployed?	Janine Opare
+103102		Who are you? Get out of my way.	{actor}
+103103		Aw, don't be so unfriendly! You're famous after your argument with {name}, don't you know?	Janine Opare
+103104		Not how I want to be famous. Go away.	{actor}
+103105		What if I offered you the chance to really exercise your talent? It isn't easy working with {name}, is it?	Janine Opare
+103106		Just who are you?	{actor}
+103107		Ho ho… Let's go somewhere where we can talk properly.	Janine Opare
+103201		Are you really sure it's a good idea to let him into your mansion?	Bonita
+103202		What are you worried about?	{name}
+103203		Even if we know they're going to do something, we don't know what that *something* would be. What if they succeed?	Bonita
+103204		Of course I've considered that possibility. But we just have to take the risk, don't we?	{name}
+103301		So, what do you think?	Janine Opare
+103302		You want me to return to {name}'s company as your spy? It's just a small company. Why are you so concerned?	{actor}
+103303		Thats not your concern. Will you do it or not?	Janine Opare
+103304		What do I get out of helping you?	{actor}
+103305		You know who my employer is, don't you? Let's just say your acting career won't be quite so pleasant if you don't agree.	Janine Opare
+103306		Tch. Do you really think I can go back after what happened last time?	{actor}
+103307		That's your problem. I look forward to your good news!	Janine Opare
+103401		Could I ask for your help with something tricky?	{name}
+103402		Sure! What is it?	Bonita
+103403		It's about {actor}. I feel like there'll be trouble if we just let it be. If possible, could you try to speak to {actor}?	{name}
+103404		Sigh… I would have done it even if you didn't tell me so. Leave it to me.	Bonita
+103501		{name} is sorry about what happened last time. No matter what happened between you, I'm sure you can talk it out.	Bonita
+103502		You came to look for me because what I said I was going to tell everyone, right? Is {name} scared?	{actor}
+103503		Yes. I told her to come. To be honest, that's partly the reason. But our company is just starting out, and I don't want to lose any of my team. All partners argue sometimes after all.	{name}
+103504		… Fine. I'll come back. I'm sorry for how I acted back then too.	{actor}
+103601		Is everything going according to plan?	Kevin Huth
+103602		Yes, everything's perfect. I bet they think we took their bait.	Janine Opare
+103603		Excellent. Keep it up and keep me updated.	Kevin Huth
+103701		What? {actor}'s a sp-	Bonita
+103702		Shh! Keep it down. I arranged so.	{name}
+103703		Just what in the world is going on?	Bonita
+103704		I'm sorry for hiding it from you. Actually, our argument was an act, just for Megastar Films.	{name}
+103705		Fair enough… But why keep me in the dark?	Bonita
+103706		To trick the enemy, you first have to be able to trick your friends. I'm sorry!	{name}
+103801		So, Megastar Films doesn't suspect you?	{name}
+103802		I don't think so. As your instructions, I waited for them to approach me before agreeing reluctantly. They shouldn't have noticed anything.	{actor}
+103803		Good, good. Have they given you any specific tasks?	{name}
+103804		No, they just asked me to watch your movements closely and report to them regularly.	{actor}
+103805		I see… Well, just do your best to earn their trust for now, so we can get to the bottom of what they're planning.	{name}
+103806		Got it, boss.	{actor}
+103901		Our box office earnings in this city have gone down recently. I think it's time to take the wind out of {name}'s sails.	Kevin Huth
+103902		Subordinate: What would you like us to do, boss?	Employee
+103903		Their next advertising event is in Hawaii. We should go and help cheer them on a little!	Kevin Huth
+103904		Subordinate: You mean you want us to… Ah, I understand. A wonderful plan!	Employee
+103905		I'll leave it in your hands. Don't fail me.	Kevin Huth
+103906		Subordinate: Roger!	Employee
+104001		This roadshow's attendance is much larger than our previous ones.	{name}
+104002		It shows that we are getting more and more fans! How terrific!	Bonita
+104003		Yeah… Hey, why aren't they dispersing? And their cheering is getting louder and louder!	{name}
+104004		Hold on. Police sirens? What's going on?	Bonita
+104005		Everyone disperse! Do you have a permit for such a large-scale event? If you don't, this is an illegal gathering. Who's in charge here? Come back with us to the station!	警察
+104006		What… Hey, wa- wait!	Bonita
+104101		{name}, are you okay?	Bonita
+104102		It's no big deal…	{name}
+104103		Stop pretending. Your eyebags are worse than a panda bear's! How long has it been since the last time you've slept? Go get yourself a good rest now!	Bonita
+104104		Sigh… I was overconfident. I never expected that they would do this… This has damaged our company's reputation quite a bit.	{name}
+104105		Playing dirty is Megastar Films' style. Thankfully, it's not irreparable. We've already started on the damage control.	Bonita
+104106		It's a lesson well learnt. One day we'll have them at our feet without resorting to such tactics!	{name}
+104201		Beautifully done, Mr Kevin.	Janine Opare
+104202		Ho… Just a little reminder that just because they've made some small achievements doesn't mean they can stand up to me.	Kevin Huth
+104203		How are your preparations coming along?	Kevin Huth
+104204		I think it's about time we put our little spy to use~	Janine Opare
+104301		So, {name} hasn't made any big moves recently, right?	Janine Opare
+104302		That's correct. After the illegal gathering incident, the whole company was in chaos, and their original plans have been delayed.	{actor}
+104303		That's to be expected. What about the preparations for the party?	Janine Opare
+104304		They're still ongoing. But I noticed that {name} has been going to a security company quite often recently…	{actor}
+104305		Really? I see… Good job. I'll be in touch soon~	Janine Opare
+104401		Did you give them the information?	{name}
+104402		Yes, just as you told me.	{actor}
+104403		Why are you feeding them this information?	Bonita
+104404		To let them know how much effort we're putting into the party. That way, they can't not come, and have to make the best preparations before coming.	{name}
+104405		Then… What about our preparations? Are they sufficient?	Bonita
+104406		You'll find out soon enough~	{name}
+104501		Looks like our fanbase is getting bigger!	Bonita
+104502		It means that Megastar Films is going to target us more and more. We have to be careful so that there's no repeat of the last incident.	{name}
+104503		Yes, we don't have the ability to completely defeat them for now.  After all, they're really on another rank.	Bonita
+104504		It's only temporary. We're definitely going to win!	{name}
+104505		Of course. Let's keep working hard!	Bonita
+104601		To put it simply, we need you to get a few extra invitations.	Janine Opare
+104602		Invitations… What do you need them for?	{actor}
+104603		Since the party is being held at {name}'s personal mansion, I'm sure the security will be tight. Rather than try to sneak in, it's best to just enter through the front door, right?	Janine Opare
+104604		Fine...I'll do my best.	{actor}
+104701		Are we really going to give them these invitations?	{actor}
+104702		Of course. It looks like they want to take advantage of the messy crowd to perform a thorough search.	{name}
+104703		Is that alright? I imagine they'll send their best professionals for the job.	Bonita
+104704		We'll give them the invitations, but with a little sign that only we'll be able to recognize. Then, we'll be able to know who Megastar Films' agents are.	{name}
+104705		A brilliant plan! Let's go with it!	Bonita
+104801		New Orleans… Makes me think of fried chicken.	{name}
+104802		Hey, you're an Oskar-winning actor. Could you act like one?	Bonita
+104803		I haven't had KFC in a long time. Shall we go today? My treat!	{name}
+104804		How can you be so causal at that timebeing…	Bonita
+104805		Ha ha ha! After all, at this point, there's nothing we can do but wait and see…	{name}
+104901		Here are the invitations you wanted. Quick, take them! If someone sees us, I'll be in big trouble.	{actor}
+104902		Don't worry. I always choose safe locations for our meetings~	Janine Opare
+104903		But, you only got two invitations?	Janine Opare
+104904		The guest list was personally written up by {name}. It'd be too obvious if lots of invitations go missing at the same time.	{actor}
+104905		I guess that's true~	Janine Opare
+105001		Las Vegas, casino capital of the world… We've got a massive gamble coming up ourselves.	{name}
+105002		You're right. It's not just the upcoming party. This whole business has been a massive wager.	Bonita
+105003		Speaking of which…Did you know that the phrase "Winner, winner, chicken dinner" originated in a casino? If you win big at the casino, you get to eat a big chicken dinner that night.	{name}
+105004		All you think about is eating…	Bonita
+105005		No, no, I'm just wishing for luck. Luck is important too, don't you think?	{name}
+105101		Welcome! I didn't think you'd really come, what a delightful surprise.	{name}
+105102		How could I not come and celebrate one of the movie industry's brightest new young talents?	Kevin Huth
+105103		Ha ha, I'm very honored. Bonita, would you be so kind as to escort Mr Kevin to the main hall?	{name}
+105104		Of course. This way, please, Mr Kevin.	Bonita
+105105		Oh? Are you waiting for someone, {name}? If you don't mind, I would like to speak with you.	Kevin Huth
+105106		Oh, of course. It would be my pleasure. Bonita, please remain here to receive the other guests.	{name}
+105201		{name} and Mr Kevin have left together. Get ready. Move out once I give the signal!	Janine Opare
+105202		Subordinate: Roger that.	Employee
+105203		Ho ho… How exciting. I wonder if they'll take the bait?	Janine Opare
+105301		So, who were the ones with the marked invitations?	{name}
+105302		No one… The party's already been going on for an hour, but I haven't seen a marked invitation yet.	Bonita
+105303		What? That's impossible! They wouldn't let this opportunity slip them by!	{name}
+105304		(Fire alarm rings) What? A fire? What's going on?	Bonita
+105305		This is bad. Our guests are panicking! Calm them down before an accident happens!	{name}
+105401		Ah, just as expected. (Picks up phone) Move now. Hurry.	Janine Opare
+105402		Subordinate: Roger!	Employee
+105403		Everybody, please calm down. There's no fire, it's a false alarm! (The crowd slowly quietens down.)	{name}
+105404		What in the world was that about?	Bonita
+105405		Boss, I checked the fire alarm system. It wasn't activated!	{actor}
+105406		Wasn't activated? Don't tell me… This is bad! Bonita, come with me, quick!	{name}
+105501		What is it?!	Bonita
+105502		Curses, we've been tricked! The fire alarm came from outside. Their objective was to find out the mask's locations by watching my movements!	{name}
+105503		But the mask… Oh, no! They must have already sent people to the cinema!	Bonita
+105504		Yes, we must hurry! I hope we'll make it in time…	{name}
+200101		You're the boss now, remember to pay attention to our fund chain~ Our invester helped us this time, but we need to avoid it to happen again.	Bonita
+200102		Sure, sorry for that. I'll be more careful from now on.	{name}
+200201		The Oskar Award begins! {0}, How you feel now?	Bonita
+200202		Huh huh, to think when I make that announcement, if feels like just yesterday.	{name}
+200203		We've achieved small goals, but there's still a long road ahead!	Bonita
+200204		I know, and we'll make it, step by step, and I assure you-we'll hold that trophy again, but as a film producer this time!	{name}
+200205		It's hard to not to believe in you huh huh! I'm sure we'll make it someday!	Bonita
+200301		Well, it's actually quite good as this is the first time we participate in the Oskar as a company.	Bonita
+200302		This moment is surely worth a whole day's hard work, if you ask me.	{name}
+200303		This is a memorable day for us all, let's keep on going!	Bonita
+200304		Don't you worry, no matter what obstacles lies in front of us, together, we'll overcome them all!	{name}
+200401		Sigh… When I was an actor, I could pretty much make top-ranking movies by just winging it.	{name}
+200402		That's in the past now! You're in charge of an entire movie company now, not just an actor!	Bonita
+200403		I know, I know. Why does the Film Association have to rank movies anyway? Feels stressful!	{name}
+200404		True, it's 100 companies per group, and every one will fight to top the group… And every company has to start from the Block rank and fight their way up to the City rank, then National rank… From this perspective, you have to respect Megastar Films for becoming number one.	Bonita
+200405		Exactly. Our company is only at Block rank 1. We need to win several awards before we'll be promoted to the next rank. I believe Megastar Films is at the National rank.	{actor}
+200406		National rank is nothing! We're reaching for the stars. One day we'll be at the Galaxy rank!	{name}
+200407		I'm sure we will, boss, but settle down. Before you're number one in the galaxy, why not think about how to be number one on this block first?	Bonita
+999901			

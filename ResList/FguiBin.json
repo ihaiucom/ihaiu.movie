@@ -1,0 +1,114 @@
+[
+  {
+    "path": "/fgui/Activity.bin",
+    "size": 30079
+  },
+  {
+    "path": "/fgui/ArtistDic.bin",
+    "size": 20598
+  },
+  {
+    "path": "/fgui/Bag.bin",
+    "size": 18931
+  },
+  {
+    "path": "/fgui/Building.bin",
+    "size": 32772
+  },
+  {
+    "path": "/fgui/Common.bin",
+    "size": 214669
+  },
+  {
+    "path": "/fgui/Cooperation.bin",
+    "size": 35952
+  },
+  {
+    "path": "/fgui/Fx.bin",
+    "size": 810482
+  },
+  {
+    "path": "/fgui/GM.bin",
+    "size": 35445
+  },
+  {
+    "path": "/fgui/Guide.bin",
+    "size": 20520
+  },
+  {
+    "path": "/fgui/LangEn.bin",
+    "size": 368
+  },
+  {
+    "path": "/fgui/LangZhCn.bin",
+    "size": 370
+  },
+  {
+    "path": "/fgui/Login.bin",
+    "size": 50060
+  },
+  {
+    "path": "/fgui/Main.bin",
+    "size": 36817
+  },
+  {
+    "path": "/fgui/MainUI.bin",
+    "size": 43005
+  },
+  {
+    "path": "/fgui/Manage.bin",
+    "size": 34106
+  },
+  {
+    "path": "/fgui/Market.bin",
+    "size": 40955
+  },
+  {
+    "path": "/fgui/Mission.bin",
+    "size": 8429
+  },
+  {
+    "path": "/fgui/Notice.bin",
+    "size": 2113
+  },
+  {
+    "path": "/fgui/Oscar.bin",
+    "size": 18459
+  },
+  {
+    "path": "/fgui/PfSkin.bin",
+    "size": 245169
+  },
+  {
+    "path": "/fgui/PlayerInfo.bin",
+    "size": 33620
+  },
+  {
+    "path": "/fgui/Produce.bin",
+    "size": 37587
+  },
+  {
+    "path": "/fgui/Rank.bin",
+    "size": 10086
+  },
+  {
+    "path": "/fgui/Sound.bin",
+    "size": 4349
+  },
+  {
+    "path": "/fgui/Street.bin",
+    "size": 38661
+  },
+  {
+    "path": "/fgui/System.bin",
+    "size": 18840
+  },
+  {
+    "path": "/fgui/SystemSettings.bin",
+    "size": 12029
+  },
+  {
+    "path": "/fgui/WarMovie.bin",
+    "size": 181761
+  }
+]
