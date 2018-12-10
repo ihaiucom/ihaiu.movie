@@ -70,7 +70,7 @@
     "ApplicationId": "com.shinezone.movie.test",
     "ResWeb": "https://movie.ihaiu.com/resources",
     "AppVersion": "1.35.00.0",
-    "PartialVersion": "v.36.00.01",
+    "PartialVersion": "v1.36.00.01",
     "PartialFolder": "android/version-partial/v1_36_00_01",
     "PatchVersion": "1.35.01.02",
     "PatchFolder": "android/version-patch/v1_35_01_02",
