@@ -1,0 +1,5 @@
+build-app
+web-app
+.DS_Store
+web/js
+web/ResList
