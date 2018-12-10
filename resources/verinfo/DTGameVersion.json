@@ -70,14 +70,14 @@
     "ApplicationId": "com.shinezone.movie.test",
     "ResWeb": "https://movie.ihaiu.com/resources",
     "AppVersion": "1.35.00.0",
-    "PartialVersion": "0",
-    "PartialFolder": "android/version-partial/v1_33_22_02",
+    "PartialVersion": "v.36.00.01",
+    "PartialFolder": "android/version-partial/v1_36_00_01",
     "PatchVersion": "1.35.01.02",
     "PatchFolder": "android/version-patch/v1_35_01_02",
     "IsPartialAlert": true,
     "IsPatchAlert": false,
     "VisiableGM": true, 
-    "AppDownloadWeb": "http://mbqb.ihaiu.com/GamePF/apk/PF-V1.35.00_test_20181210.apk",
+    "AppDownloadWeb": "http://mbqb.ihaiu.com/GamePF/apk/PF-V1.36.00_test_20181210.apk",
     "AppDownloadName": "",
     "AppDownloadType": 3
 
