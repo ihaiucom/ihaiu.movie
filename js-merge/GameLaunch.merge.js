@@ -624,6 +624,7 @@ var BrowserDetectConfig = /** @class */ (function () {
             this.isDebugRecharge = false;
         }
         this.isLocal = true;
+        this.isMobile = false;
     }
     Object.defineProperty(BrowserDetectConfig.prototype, "versionUrl", {
         // 版本号路径
