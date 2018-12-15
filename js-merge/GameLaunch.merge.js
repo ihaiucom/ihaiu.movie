@@ -8428,4 +8428,6 @@ window.onload = function onWindowLoad() {
         Game.install();
     }
 };
+
+StartGame();
 //# sourceMappingURL=GameLaunch.js.map
