@@ -1,0 +1,1 @@
+{"version":3,"file":"GameInfoExtHandler.js","sourceRoot":"","sources":["../../../../src/proto/oobhandler/GameInfoExtHandler.ts"],"names":[],"mappings":"AAAA,IAAU,KAAK,CASd;AATD,WAAU,KAAK;IAEX,MAAA,eAAe,CAAC,kBAAkB,GAAG,UAAC,GAAyB;QAE3D,IAAI,CAAC,GAAG;YACJ,OAAO;QAEX,IAAI,CAAC,OAAO,GAAG,GAAG,CAAC;IACvB,CAAC,CAAA;AACL,CAAC,EATS,KAAK,KAAL,KAAK,QASd"}

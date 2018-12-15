@@ -1,0 +1,123 @@
+/////////////////////////////////////
+// ihaiu.ExportFairyGUICode生成
+// http://blog.ihaiu.com
+/////////////////////////////////////
+var fgui;
+(function (fgui) {
+    var PfSkin;
+    (function (PfSkin) {
+        var PfSkinBinder = /** @class */ (function () {
+            function PfSkinBinder() {
+            }
+            PfSkinBinder.bindAll = function () {
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ActorDetailUI.URL, PfSkin.ActorDetailUI);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ArtistForzenUI.URL, PfSkin.ArtistForzenUI);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ArtistScoutResultUI.URL, PfSkin.ArtistScoutResultUI);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ArtistScoutSuccessUI.URL, PfSkin.ArtistScoutSuccessUI);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ArtistTrainResultUI.URL, PfSkin.ArtistTrainResultUI);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ArtistTrainUI.URL, PfSkin.ArtistTrainUI);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ArtistUI.URL, PfSkin.ArtistUI);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ModalUI.URL, PfSkin.ModalUI);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ArtistForzenItem.URL, PfSkin.ArtistForzenItem);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ArtistItemView.URL, PfSkin.ArtistItemView);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ArtistScoutResultItem.URL, PfSkin.ArtistScoutResultItem);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ArtistTabBtn.URL, PfSkin.ArtistTabBtn);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ArtistTrainAttrUpItem.URL, PfSkin.ArtistTrainAttrUpItem);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ArtistTrainItem1.URL, PfSkin.ArtistTrainItem1);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ArtistTrainItem2.URL, PfSkin.ArtistTrainItem2);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.CommonBtn.URL, PfSkin.CommonBtn);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.CommonDialogUI.URL, PfSkin.CommonDialogUI);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.RewardCellView.URL, PfSkin.RewardCellView);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.LineText.URL, PfSkin.LineText);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ProgressBarYellow.URL, PfSkin.ProgressBarYellow);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.Red.URL, PfSkin.Red);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.SpeedBtn.URL, PfSkin.SpeedBtn);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.Text.URL, PfSkin.Text);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.TrainResultItem.URL, PfSkin.TrainResultItem);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.YellowBtn2.URL, PfSkin.YellowBtn2);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.YellowBtn5.URL, PfSkin.YellowBtn5);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.WarFilmLabel.URL, PfSkin.WarFilmLabel);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.WarBtn.URL, PfSkin.WarBtn);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.CheckBox.URL, PfSkin.CheckBox);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ResultItemBtn.URL, PfSkin.ResultItemBtn);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.StoryLibraryUI.URL, PfSkin.StoryLibraryUI);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.StoryGroupRewardItem.URL, PfSkin.StoryGroupRewardItem);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.StoryGroupItem.URL, PfSkin.StoryGroupItem);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.CheckMark.URL, PfSkin.CheckMark);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.StoryItem.URL, PfSkin.StoryItem);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.GroupItemRewardDialog.URL, PfSkin.GroupItemRewardDialog);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.StoryAchevementUI.URL, PfSkin.StoryAchevementUI);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.StoryAchevementItem.URL, PfSkin.StoryAchevementItem);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.StoryAchevementTargetItem.URL, PfSkin.StoryAchevementTargetItem);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.StoryAchevementTargetUI.URL, PfSkin.StoryAchevementTargetUI);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.StoryInfoUI.URL, PfSkin.StoryInfoUI);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.StoryInfoItem.URL, PfSkin.StoryInfoItem);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ArtistShareUI.URL, PfSkin.ArtistShareUI);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ArtistGetUI.URL, PfSkin.ArtistGetUI);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.MailMainPanel.URL, PfSkin.MailMainPanel);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.MailItem.URL, PfSkin.MailItem);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.MailContentPanel.URL, PfSkin.MailContentPanel);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.TextScroll.URL, PfSkin.TextScroll);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.EmptyBtn.URL, PfSkin.EmptyBtn);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.StoryItemMask.URL, PfSkin.StoryItemMask);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ShopMainPanel.URL, PfSkin.ShopMainPanel);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ShopItem.URL, PfSkin.ShopItem);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ShopSpecialItem.URL, PfSkin.ShopSpecialItem);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.BtnShopTab.URL, PfSkin.BtnShopTab);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.RechargeMainPanel.URL, PfSkin.RechargeMainPanel);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ShopRechargeItem.URL, PfSkin.ShopRechargeItem);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.LabItem_big.URL, PfSkin.LabItem_big);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ShopGoodsItem.URL, PfSkin.ShopGoodsItem);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.RoomDisplayContainer.URL, PfSkin.RoomDisplayContainer);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.LyShow.URL, PfSkin.LyShow);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.LyChair1.URL, PfSkin.LyChair1);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.LyChair2.URL, PfSkin.LyChair2);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.LyChair3.URL, PfSkin.LyChair3);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.LyChair4.URL, PfSkin.LyChair4);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.LyContainer.URL, PfSkin.LyContainer);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ArtListExerciseItem.URL, PfSkin.ArtListExerciseItem);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ArtListExerciseUI.URL, PfSkin.ArtListExerciseUI);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ArtistExperciseRoom.URL, PfSkin.ArtistExperciseRoom);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ActorExperciseSelectPanel.URL, PfSkin.ActorExperciseSelectPanel);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ActorExperciseItem.URL, PfSkin.ActorExperciseItem);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.RoadShowContainer.URL, PfSkin.RoadShowContainer);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.OscarAnim.URL, PfSkin.OscarAnim);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.OscarChair1.URL, PfSkin.OscarChair1);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.OscarChair2.URL, PfSkin.OscarChair2);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.OscarChair3.URL, PfSkin.OscarChair3);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.OscarChair4.URL, PfSkin.OscarChair4);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.OscarContainer.URL, PfSkin.OscarContainer);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.AnimContainer.URL, PfSkin.AnimContainer);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.LeftTimeBtn.URL, PfSkin.LeftTimeBtn);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.StoryAchieveItemView.URL, PfSkin.StoryAchieveItemView);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.BtnBigAdd.URL, PfSkin.BtnBigAdd);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ArtistBtn.URL, PfSkin.ArtistBtn);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.NewArtistItem.URL, PfSkin.NewArtistItem);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.NewArtistBg.URL, PfSkin.NewArtistBg);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.StoryTypeItem.URL, PfSkin.StoryTypeItem);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ShareBtn.URL, PfSkin.ShareBtn);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.LabCost.URL, PfSkin.LabCost);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.StoryFindUI.URL, PfSkin.StoryFindUI);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.LabCost2.URL, PfSkin.LabCost2);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.GoodsLine.URL, PfSkin.GoodsLine);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ActionContainer.URL, PfSkin.ActionContainer);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.MailViewPanel.URL, PfSkin.MailViewPanel);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.MailRewardItem.URL, PfSkin.MailRewardItem);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.OscarPanel.URL, PfSkin.OscarPanel);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ArtistIcon.URL, PfSkin.ArtistIcon);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ArtistIcon150.URL, PfSkin.ArtistIcon150);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.StoryItemStar.URL, PfSkin.StoryItemStar);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ArtistFindPanel.URL, PfSkin.ArtistFindPanel);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ArtistListPanel.URL, PfSkin.ArtistListPanel);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.RandomBtn.URL, PfSkin.RandomBtn);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.GoodsIcon.URL, PfSkin.GoodsIcon);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.RenameInput.URL, PfSkin.RenameInput);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.ScoutInput.URL, PfSkin.ScoutInput);
+                fairygui.UIObjectFactory.setPackageItemExtension(PfSkin.RenameUI.URL, PfSkin.RenameUI);
+            };
+            return PfSkinBinder;
+        }());
+        PfSkin.PfSkinBinder = PfSkinBinder;
+    })(PfSkin = fgui.PfSkin || (fgui.PfSkin = {}));
+})(fgui || (fgui = {}));
+//# sourceMappingURL=PfSkinBinder.js.map

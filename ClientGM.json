@@ -1,0 +1,39 @@
+﻿[
+  {
+    "cnname": " 测试",
+    "name": "gmTest",
+    "data": {
+      "num": 1
+    }
+  },
+  {
+    "cnname": " 请求奥斯卡数据",
+    "name": "gmUpdateOscar",
+    "data": {}
+  },
+  {
+    "cnname": " 打印内存",
+    "name": "gmPrintMem",
+    "data": {}
+  },
+  {
+    "cnname": " 测试几百个本地缓存同时存储",
+    "name": "gmTestLocalStorageSave",
+    "data": {}
+  },
+  {
+    "cnname": " 测试几百个本地缓存同时读取",
+    "name": "gmTestLocalStorageRead",
+    "data": {}
+  },
+  {
+    "cnname": " 检测TimerLoop",
+    "name": "gmTestTimerLoop",
+    "data": {}
+  },
+  {
+    "cnname": " 重新登录",
+    "name": "gmTestRelogin",
+    "data": {}
+  }
+]

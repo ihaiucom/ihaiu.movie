@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="bwpct28j" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="dcdsc" name="icon_artist_zjm.png" path="/" exported="true"/>
+    <image id="dcdsd" name="icon_awards_zjm.png" path="/" exported="true"/>
+    <image id="dcdse" name="icon_chat_zjm.png" path="/" exported="true"/>
+    <image id="dcdsf" name="icon_depot_zjm.png" path="/" exported="true"/>
+    <image id="dcdsg" name="icon_event_zjm.png" path="/" exported="true"/>
+    <image id="dcdsh" name="icon_film_zjm.png" path="/" exported="true"/>
+    <image id="dcdsi" name="icon_mail_zjm.png" path="/" exported="true"/>
+    <image id="dcdsj" name="icon_manage_zjm.png" path="/" exported="true"/>
+    <image id="dcdsk" name="icon_market_zjm.png" path="/" exported="true"/>
+    <image id="dcdsl" name="icon_mission_zjm.png" path="/" exported="true"/>
+    <image id="dcdsm" name="icon_pay_zjm.png" path="/" exported="true"/>
+    <image id="dcdsn" name="icon_run_zjm.png" path="/" exported="true"/>
+    <image id="dcdso" name="icon_set_zjm.png" path="/" exported="true"/>
+    <image id="dcdsp" name="icon_shop_zjm.png" path="/" exported="true"/>
+    <image id="dcdsq" name="icon_social_zjm.png" path="/" exported="true"/>
+    <image id="dcdsr" name="icon_superidol_zjm.png" path="/" exported="true"/>
+    <image id="dcdss" name="icon_tips_zjm.png" path="/" exported="true"/>
+    <image id="dcdst" name="icon_trophy_zjm.png" path="/" exported="true"/>
+    <image id="dcdsu" name="icon_weal_zjm.png" path="/" exported="true"/>
+    <image id="ojqt16" name="icon_cooperatingtasks_zjm.png" path="/" exported="true"/>
+    <image id="ojqt17" name="icon_givemoney_zjm.png" path="/" exported="true"/>
+    <image id="ojqt19" name="icon_parka_zjm.png" path="/" exported="true"/>
+    <image id="ojqt1a" name="icon_talent.png" path="/" exported="true"/>
+    <image id="mf7z1b" name="icon_fans_zjm.png" path="/" exported="true"/>
+    <image id="mf7z1c" name="icon_meeting_zjm.png" path="/" exported="true"/>
+    <image id="mf7z1d" name="icon_office_zjm.png" path="/" exported="true"/>
+    <image id="mf7z1e" name="icon_order_zjm.png" path="/" exported="true"/>
+    <image id="mf7z1f" name="icon_produce_zjm.png" path="/" exported="true"/>
+    <image id="tsvk1g" name="icon_entertainment2.png" path="/" exported="true"/>
+    <image id="tsvk1h" name="icon_train.png" path="/" exported="true"/>
+    <image id="ss3u1i" name="icon_scenario_zjm.png" path="/" exported="true"/>
+    <image id="ss3u1j" name="icon_artistlist_zjm.png" path="/" exported="true"/>
+    <image id="f9j41k" name="icon_temp.png" path="/" exported="true"/>
+    <image id="e0oi1l" name="icon_build_zjm.png" path="/" exported="true"/>
+    <image id="q3lj1m" name="icon_skillpoint.png" path="/" exported="true"/>
+  </resources>
+  <publish name="MenuIcon"/>
+</packageDescription>

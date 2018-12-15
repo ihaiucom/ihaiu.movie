@@ -1,0 +1,154 @@
+[
+  {
+    "path": "/fgui/Activity.bin",
+    "size": 29311
+  },
+  {
+    "path": "/fgui/ArtistDic.bin",
+    "size": 20611
+  },
+  {
+    "path": "/fgui/Bag.bin",
+    "size": 18776
+  },
+  {
+    "path": "/fgui/Building.bin",
+    "size": 37971
+  },
+  {
+    "path": "/fgui/Common.bin",
+    "size": 202717
+  },
+  {
+    "path": "/fgui/Cooperation.bin",
+    "size": 36291
+  },
+  {
+    "path": "/fgui/FilmScreenAnim1.bin",
+    "size": 3172
+  },
+  {
+    "path": "/fgui/FilmScreenAnim10.bin",
+    "size": 3172
+  },
+  {
+    "path": "/fgui/FilmScreenAnim2.bin",
+    "size": 3250
+  },
+  {
+    "path": "/fgui/FilmScreenAnim3.bin",
+    "size": 3172
+  },
+  {
+    "path": "/fgui/FilmScreenAnim4.bin",
+    "size": 3166
+  },
+  {
+    "path": "/fgui/FilmScreenAnim5.bin",
+    "size": 3186
+  },
+  {
+    "path": "/fgui/FilmScreenAnim6.bin",
+    "size": 3170
+  },
+  {
+    "path": "/fgui/FilmScreenAnim7.bin",
+    "size": 3179
+  },
+  {
+    "path": "/fgui/FilmScreenAnim8.bin",
+    "size": 3171
+  },
+  {
+    "path": "/fgui/FilmScreenAnim9.bin",
+    "size": 3186
+  },
+  {
+    "path": "/fgui/FilmScreenCommon.bin",
+    "size": 598
+  },
+  {
+    "path": "/fgui/Fx.bin",
+    "size": 893917
+  },
+  {
+    "path": "/fgui/GM.bin",
+    "size": 35473
+  },
+  {
+    "path": "/fgui/Guide.bin",
+    "size": 32374
+  },
+  {
+    "path": "/fgui/LangEn.bin",
+    "size": 368
+  },
+  {
+    "path": "/fgui/LangZhCn.bin",
+    "size": 370
+  },
+  {
+    "path": "/fgui/Login.bin",
+    "size": 51378
+  },
+  {
+    "path": "/fgui/MainUI.bin",
+    "size": 43007
+  },
+  {
+    "path": "/fgui/Manage.bin",
+    "size": 32937
+  },
+  {
+    "path": "/fgui/Market.bin",
+    "size": 48239
+  },
+  {
+    "path": "/fgui/Mission.bin",
+    "size": 8436
+  },
+  {
+    "path": "/fgui/Notice.bin",
+    "size": 2113
+  },
+  {
+    "path": "/fgui/Oscar.bin",
+    "size": 18763
+  },
+  {
+    "path": "/fgui/PfSkin.bin",
+    "size": 226404
+  },
+  {
+    "path": "/fgui/PlayerInfo.bin",
+    "size": 33705
+  },
+  {
+    "path": "/fgui/Produce.bin",
+    "size": 35489
+  },
+  {
+    "path": "/fgui/Rank.bin",
+    "size": 10178
+  },
+  {
+    "path": "/fgui/Sound.bin",
+    "size": 5377
+  },
+  {
+    "path": "/fgui/Street.bin",
+    "size": 38572
+  },
+  {
+    "path": "/fgui/System.bin",
+    "size": 16899
+  },
+  {
+    "path": "/fgui/SystemSettings.bin",
+    "size": 11978
+  },
+  {
+    "path": "/fgui/WarMovie.bin",
+    "size": 185512
+  }
+]

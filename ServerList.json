@@ -1,0 +1,151 @@
+{
+	"list": [
+		{
+			"name": "测试--项目组80",
+			"ip": "172.16.0.93",
+			"port": 80,
+			"state": 1,
+			"https": false,
+			"test": true,
+			"staticGameId": 1116,
+			"staticUrl": "http://35.175.28.18:81/logs",
+			"marketVerifyUrl": "http://172.16.52.101:3000/pay/Apple",
+			"chat": "http://172.16.0.187:8360"
+		},
+		{
+			"name": "测试--项目组81",
+			"ip": "172.16.0.93",
+			"port": 81,
+			"state": 1,
+			"https": false,
+			"test": true,
+			"staticGameId": 1116,
+			"staticUrl": "http://35.175.28.18:81/logs",
+			"marketVerifyUrl": "http://172.16.52.101:3000/pay/Apple",
+			"chat": "http://172.16.0.187:8360"
+		},
+		{
+			"name": "测试--项目组82",
+			"ip": "172.16.0.93",
+			"port": 82,
+			"state": 1,
+			"https": false,
+			"test": true,
+			"staticGameId": 1116,
+			"staticUrl": "http://35.175.28.18:81/logs",
+			"marketVerifyUrl": "http://172.16.52.101:3000/pay/Apple",
+			"chat": "http://172.16.0.187:8360"
+		},
+		{
+			"name": "测试--项目组83",
+			"ip": "172.16.0.93",
+			"port": 83,
+			"state": 1,
+			"https": false,
+			"test": true,
+			"staticGameId": 1116,
+			"staticUrl": "http://35.175.28.18:81/logs",
+			"marketVerifyUrl": "http://172.16.52.101:3000/pay/Apple",
+			"chat": "http://172.16.0.187:8360"
+		},
+		{
+			"name": "测试--项目组84",
+			"ip": "172.16.0.93",
+			"port": 84,
+			"state": 1,
+			"https": false,
+			"test": true,
+			"staticGameId": 1116,
+			"staticUrl": "http://35.175.28.18:81/logs",
+			"marketVerifyUrl": "http://172.16.52.101:3000/pay/Apple",
+			"chat": "http://172.16.0.187:8360"
+		},
+		{
+			"name": "测试--项目组85",
+			"ip": "172.16.0.93",
+			"port": 85,
+			"state": 1,
+			"https": false,
+			"test": true,
+			"staticGameId": 1116,
+			"staticUrl": "http://35.175.28.18:81/logs",
+			"marketVerifyUrl": "http://172.16.52.101:3000/pay/Apple",
+			"chat": "http://172.16.0.187:8360"
+		},
+		{
+			"name": "测试--项目组86",
+			"ip": "172.16.51.19",
+			"port": 8360,
+			"state": 1,
+			"https": false,
+			"test": true,
+			"staticGameId": 1116,
+			"staticUrl": "http://35.175.28.18:81/logs",
+			"marketVerifyUrl": "http://172.16.52.101:3000/pay/Apple",
+			"chat": "http://172.16.0.187:8360"
+		},
+		{
+			"name": "测试--项目组87",
+			"ip": "172.16.51.19",
+			"port": 8460,
+			"state": 1,
+			"https": false,
+			"test": true,
+			"staticGameId": 1116,
+			"staticUrl": "http://35.175.28.18:81/logs",
+			"marketVerifyUrl": "http://172.16.52.101:3000/pay/Apple",
+			"chat": "http://172.16.0.187:8360"
+		},
+		{
+			"name": "测试--刘孝成",
+			"ip": "172.16.52.247",
+			"port": 8080,
+			"state": 1,
+			"https": false,
+			"test": true,
+			"staticGameId": 1116,
+			"staticUrl": "http://35.175.28.18:81/logs",
+			"marketVerifyUrl": "http://172.16.52.101:3000/pay/Apple",
+			"chat": "http://172.16.0.187:8360"
+		},
+		{
+			"name": "Official",
+			"ip": "172.16.0.187",
+			"port": 80,
+			"state": 1,
+			"https": false,
+			"test": true,
+			"staticGameId": 1116,
+			"staticUrl": "http://35.175.28.18:81/logs",
+			"marketVerifyUrl": "http://172.16.52.101:3000/pay/Apple",
+			"chat": "http://172.16.0.187:8360"
+		},
+		{
+			"name": "QA压力测试",
+			"ip": "212.64.87.100",
+			"port": 80,
+			"state": 1,
+			"https": false,
+			"test": true,
+			"staticGameId": 1116,
+			"staticUrl": "http://35.175.28.18:81/logs",
+			"noticUrl": "http://212.64.87.100:81/notice.html",
+			"marketVerifyUrl": "http://172.16.52.101:3000/pay/Apple",
+			"chat": "http://172.16.0.187:8360"
+		},
+		{
+			"name": "USA-Android-QA",
+			"ip": "49.51.84.12",
+			"port": 80,
+			"state": 1,
+			"https": false,
+			"test": true,
+			"staticGameId": 1116,
+			"staticUrl": "http://49.51.84.12:81/logs",
+			"noticUrl": "http://49.51.84.12:81/notice.html",
+			"marketVerifyUrl": "http://49.51.84.12:81/pay/Apple",
+			"chat": "http://172.16.0.187:8360"
+		}
+	],
+	"defaultServer": "测试--项目组80"
+}
