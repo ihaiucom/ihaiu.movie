@@ -575,6 +575,8 @@ var BrowserDetectConfig = /** @class */ (function () {
         this.isShowState = true;
         // 是否使用版本号
         this.isUseVersion = false;
+
+            this.isMobile = false;
         // 内部充值模式
         this.isDebugRecharge = true;
         this.urlServerListRemote = "http://mbqb.ihaiu.com/GamePF/ServerList.json";
@@ -591,11 +593,12 @@ var BrowserDetectConfig = /** @class */ (function () {
             this.isMobile = this.isIOS || this.isAndroid;
         }
         else {
-            // this.isMobile = true;
             // this.isApp = true;
         }
         // this.isMobile = true;
+
         this.isApp = this.isConch || this.isCrosswalk;
+            this.isMobile = this.isIOS || this.isAndroid || this.isApp ;
         this.isResease = true;
         if (window && window["location"] && window["location"]["pathname"] && window["location"]["pathname"].startsWith("/GamePF") || /\/[A-Z]:\//.test(window["location"]["pathname"])) {
             this.isResease = false;
