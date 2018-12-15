@@ -591,10 +591,10 @@ var BrowserDetectConfig = /** @class */ (function () {
             this.isMobile = this.isIOS || this.isAndroid;
         }
         else {
-            this.isMobile = true;
-            this.isApp = true;
+            // this.isMobile = true;
+            // this.isApp = true;
         }
-        this.isMobile = true;
+        // this.isMobile = true;
         this.isApp = this.isConch || this.isCrosswalk;
         this.isResease = true;
         if (window && window["location"] && window["location"]["pathname"] && window["location"]["pathname"].startsWith("/GamePF") || /\/[A-Z]:\//.test(window["location"]["pathname"])) {
@@ -624,7 +624,6 @@ var BrowserDetectConfig = /** @class */ (function () {
             this.isDebugRecharge = false;
         }
         this.isLocal = true;
-        this.isMobile = false;
     }
     Object.defineProperty(BrowserDetectConfig.prototype, "versionUrl", {
         // 版本号路径
